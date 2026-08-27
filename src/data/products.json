@@ -16,7 +16,7 @@
     "code": "UX-15",
     "name": "UX-15",
     "priority": "S+",
-    "note": "最新調整",
+    "note": "高優先",
     "aliases": []
   },
   {
@@ -24,7 +24,7 @@
     "code": "UX-03",
     "name": "UX-03",
     "priority": "S+",
-    "note": "最新調整",
+    "note": "高優先",
     "aliases": []
   },
   {
@@ -39,10 +39,20 @@
     "code": "BX-35",
     "name": "BX-35 隨機強化組 Vol.04",
     "priority": "S",
-    "note": "最新調整至 S",
+    "note": "高優先",
     "aliases": [
       "BX-35 隨機強化組Vol.4",
       "BX-35 隨機強化組Vol.04"
+    ]
+  },
+  {
+    "id": "UX-19",
+    "code": "UX-19",
+    "name": "UX-19 子彈獅鷲 H",
+    "priority": "S",
+    "note": "主力備品，H 實用",
+    "aliases": [
+      "UX-19 子彈獅鷲H"
     ]
   },
   {
@@ -60,31 +70,31 @@
     "code": "CX-18",
     "name": "CX-18 腕龍鞭打",
     "priority": "A",
-    "note": "最新調整至 A",
+    "note": "主要看重 Nr",
     "aliases": [
       "CX-18 腕龍鞭打 隨機強化組",
       "CX-18 腕龍鞭打隨機強化組"
     ]
   },
   {
-    "id": "BX-33",
-    "code": "BX-33",
-    "name": "BX-33 皓戰猛虎 3-60U",
-    "priority": "A",
-    "note": "3-60 實用",
-    "aliases": [
-      "BX-33 皓戰猛虎"
-    ]
-  },
-  {
     "id": "BX-50",
     "code": "BX-50",
     "name": "BX-50 天堂日輪 隨機強化組",
-    "priority": "B+",
-    "note": "偏抽獎／收藏",
+    "priority": "A",
+    "note": "最新調整至 A",
     "aliases": [
       "BX-50 天堂日輪 隨機強化",
       "BX-50 天堂日輪隨機強化組"
+    ]
+  },
+  {
+    "id": "BX-33",
+    "code": "BX-33",
+    "name": "BX-33 皓戰猛虎 3-60U",
+    "priority": "B+",
+    "note": "最新調整至 B+",
+    "aliases": [
+      "BX-33 皓戰猛虎"
     ]
   },
   {
@@ -135,38 +145,15 @@
     "aliases": []
   },
   {
-    "id": "UX-19",
-    "code": "UX-19",
-    "name": "UX-19 子彈獅鷲H",
-    "priority": "未分類",
-    "aliases": []
-  },
-  {
     "id": "BX-18",
     "code": "BX-18",
-    "name": "BX-18 X旋風發射器",
-    "priority": "未分類",
+    "name": "BX-18 / BX-40 / BX-51 發射器",
+    "priority": "低優先",
+    "note": "發射器統一低優先",
     "aliases": [
-      "BX-18 發射器"
-    ]
-  },
-  {
-    "id": "BX-10",
-    "code": "BX-10",
-    "name": "BX-10 極限衝擊戰鬥盤",
-    "priority": "未分類",
-    "aliases": [
-      "BX-10極限衝擊戰鬥盤"
-    ]
-  },
-  {
-    "id": "BX-00",
-    "code": "BX-00",
-    "name": "BX-00 暴風天馬3-70R",
-    "priority": "未分類",
-    "aliases": [
-      "BX-00 暴風天馬3-70RA",
-      "BX-00 暴風天馬"
+      "BX-18 X旋風發射器",
+      "BX-18 發射器",
+      "BX-18 旋風發射器"
     ]
   },
   {
@@ -191,6 +178,25 @@
       "BX-40 發射器",
       "BX-40 發射器(酒紅)左迴",
       "BX-40 發射器 左迴旋 酒紅"
+    ]
+  },
+  {
+    "id": "BX-10",
+    "code": "BX-10",
+    "name": "BX-10 極限衝擊戰鬥盤",
+    "priority": "未分類",
+    "aliases": [
+      "BX-10極限衝擊戰鬥盤"
+    ]
+  },
+  {
+    "id": "BX-00",
+    "code": "BX-00",
+    "name": "BX-00 暴風天馬3-70R",
+    "priority": "未分類",
+    "aliases": [
+      "BX-00 暴風天馬3-70RA",
+      "BX-00 暴風天馬"
     ]
   },
   {
@@ -220,6 +226,13 @@
     "id": "BX-32",
     "code": "BX-32",
     "name": "BX-32 寬型極限衝擊戰鬥盤",
+    "priority": "未分類",
+    "aliases": []
+  },
+  {
+    "id": "UX-01",
+    "code": "UX-01",
+    "name": "UX-01 蒼龍爆刃",
     "priority": "未分類",
     "aliases": []
   },
