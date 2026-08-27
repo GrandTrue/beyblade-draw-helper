@@ -12,6 +12,10 @@ const stores = storesData as Store[]
 const products = productsData as Product[]
 const lotteries = lotteriesData as Lottery[]
 const storeMap = new Map(stores.map(store => [store.id, store]))
+const isEntered = (states: DrawStateMap, id: string) => {
+  const status = states[id]?.status ?? Object.entries(states).find(([legacyId]) => legacyId.startsWith(`${id}-`))?.[1].status
+  return status === 'entered'
+}
 
 type View = 'products' | 'stores' | 'pending' | 'settings'
 type StatusFilter = 'pending' | 'entered' | 'all'
@@ -32,18 +36,18 @@ export default function App() {
 
   const productRows = useMemo(() => products.map(product => {
     const entries = lotteries.filter(lottery => lottery.productId === product.id)
-    const entered = entries.filter(entry => states[entry.id]?.status === 'entered').length
+    const entered = entries.filter(entry => isEntered(states, entry.id)).length
     return { product, entries, entered, pending: entries.length - entered }
-  }).filter(row => row.entries.length > 0).sort((a, b) => PRIORITY_WEIGHT[b.product.priority] - PRIORITY_WEIGHT[a.product.priority] || a.product.id.localeCompare(b.product.id)), [states])
+  }).filter(row => row.entries.length > 0).sort((a, b) => PRIORITY_WEIGHT[b.product.priority] - PRIORITY_WEIGHT[a.product.priority] || (a.product.sortOrder ?? 999999) - (b.product.sortOrder ?? 999999) || a.product.id.localeCompare(b.product.id)), [states])
 
   const matchingRows = productRows.filter(({ product, entries, pending, entered }) => {
     const q = query.trim().toLowerCase()
     const searchable = [product.code, product.name, ...(product.aliases || []), ...entries.map(entry => storeMap.get(entry.storeId)?.name)].join(' ').toLowerCase()
     return (!q || searchable.includes(q)) && (priority === '全部' || product.priority === priority) && (statusFilter === 'all' || (statusFilter === 'pending' ? pending > 0 : entered > 0))
   })
-  const totalEntered = lotteries.filter(entry => states[entry.id]?.status === 'entered').length
+  const totalEntered = lotteries.filter(entry => isEntered(states, entry.id)).length
   const pendingCount = stores.filter(store => store.announcementStatus === 'pending').length
-  const highQueue = productRows.flatMap(row => ['S+', 'S'].includes(row.product.priority) ? row.entries.filter(entry => states[entry.id]?.status !== 'entered').map(entry => ({ ...row, entry })) : [])
+  const highQueue = productRows.flatMap(row => ['S+', 'S'].includes(row.product.priority) ? row.entries.filter(entry => !isEntered(states, entry.id)).map(entry => ({ ...row, entry })) : [])
   const currentQueue = highQueue[0]
 
   const exportData = () => {
@@ -78,13 +82,13 @@ export default function App() {
           <div className="section-heading"><h2>依商品處理</h2><span>{matchingRows.length} 項商品</span></div>
           {matchingRows.map(({ product, entries, entered, pending }) => {
             const open = expanded === product.id
-            const sortedEntries = [...entries].sort((a, b) => (states[a.id]?.status === 'entered' ? 1 : 0) - (states[b.id]?.status === 'entered' ? 1 : 0) || STORE_PRIORITY_WEIGHT[storeMap.get(b.storeId)?.priority || '未分類'] - STORE_PRIORITY_WEIGHT[storeMap.get(a.storeId)?.priority || '未分類'])
+            const sortedEntries = [...entries].sort((a, b) => (isEntered(states, a.id) ? 1 : 0) - (isEntered(states, b.id) ? 1 : 0) || STORE_PRIORITY_WEIGHT[storeMap.get(b.storeId)?.priority || '未分類'] - STORE_PRIORITY_WEIGHT[storeMap.get(a.storeId)?.priority || '未分類'])
             return <article className={`product-item ${open ? 'open' : ''}`} key={product.id}>
               <button className="product-summary" onClick={() => setExpanded(open ? null : product.id)} aria-expanded={open}>
                 <PriorityBadge priority={product.priority} /><span className="product-copy"><strong>{product.code || product.id}</strong><span>{product.name.replace(product.code || '', '').trim() || product.name}</span><small className={pending ? 'urgent' : ''}>{pending ? `${pending} 間未抽` : '全部完成 ✓'}</small></span><span className="progress-copy">已抽 {entered} / {entries.length}</span>{open ? <ChevronUp /> : <ChevronDown />}
               </button>
               {open && <div className="store-entries">{sortedEntries.map(entry => {
-                const store = storeMap.get(entry.storeId)!; const done = states[entry.id]?.status === 'entered'
+                const store = storeMap.get(entry.storeId)!; const done = isEntered(states, entry.id)
                 return <div className={`draw-row ${done ? 'done' : ''}`} key={entry.id}><div className="store-name"><span>{done ? <Check size={17} /> : <StoreIcon size={17} />}</span><div><strong>{store.name}</strong><small>{store.priority} · {store.city} · {profile === 'line1' ? 'LINE 1' : 'LINE 2'}</small></div></div><div className="draw-actions">{done ? <button className="undo" onClick={() => setStatus(entry.id, 'not-entered')}>取消已抽</button> : <><button className="copy-link" onClick={() => navigator.clipboard.writeText(entry.lotteryUrl)}><Copy size={16} />複製</button><a href={entry.lotteryUrl} target="_blank" rel="noreferrer" onClick={() => setStatus(entry.id, 'entered')}><ExternalLink size={16} />前往抽選</a><button onClick={() => setStatus(entry.id, 'entered')}><Check size={16} />標記已抽</button></>}</div></div>
               })}</div>}
             </article>
@@ -104,7 +108,7 @@ export default function App() {
 function StoreView({ states, setStatus }: { states: DrawStateMap; setStatus: (id: string, status: 'entered' | 'not-entered') => void }) {
   const published = stores.filter(store => store.announcementStatus === 'published').sort((a, b) => STORE_PRIORITY_WEIGHT[b.priority] - STORE_PRIORITY_WEIGHT[a.priority])
   const [open, setOpen] = useState<string | null>(published[0]?.id || null)
-  return <section className="page"><h2>依店家查看</h2><p>先看店家的本輪商品，再逐筆前往抽選。</p><div className="store-list">{published.map(store => { const entries = lotteries.filter(entry => entry.storeId === store.id); const done = entries.filter(entry => states[entry.id]?.status === 'entered').length; return <article key={store.id}><button className="store-summary" onClick={() => setOpen(open === store.id ? null : store.id)}><span><strong>{store.name}</strong><small>{store.priority} · {store.city}</small></span><span>{done} / {entries.length} 已抽</span>{open === store.id ? <ChevronUp /> : <ChevronDown />}</button>{open === store.id && <div className="store-products">{entries.sort((a, b) => PRIORITY_WEIGHT[(products.find(p => p.id === b.productId)?.priority || '未分類')] - PRIORITY_WEIGHT[(products.find(p => p.id === a.productId)?.priority || '未分類')]).map(entry => { const product = products.find(item => item.id === entry.productId)!; const done = states[entry.id]?.status === 'entered'; return <div className="store-product" key={entry.id}><PriorityBadge priority={product.priority} /><span><strong>{product.name}</strong><small>{done ? '已抽 ✓' : '尚未抽'}</small></span>{done ? <button onClick={() => setStatus(entry.id, 'not-entered')}>取消</button> : <a href={entry.lotteryUrl} target="_blank" rel="noreferrer" onClick={() => setStatus(entry.id, 'entered')}>抽選</a>}</div>})}</div>}</article>})}</div></section>
+  return <section className="page"><h2>依店家查看</h2><p>先看店家的本輪商品，再逐筆前往抽選。</p><div className="store-list">{published.map(store => { const entries = lotteries.filter(entry => entry.storeId === store.id); const done = entries.filter(entry => isEntered(states, entry.id)).length; return <article key={store.id}><button className="store-summary" onClick={() => setOpen(open === store.id ? null : store.id)}><span><strong>{store.name}</strong><small>{store.priority} · {store.city}</small></span><span>{done} / {entries.length} 已抽</span>{open === store.id ? <ChevronUp /> : <ChevronDown />}</button>{open === store.id && <div className="store-products">{entries.sort((a, b) => { const productA = products.find(p => p.id === a.productId); const productB = products.find(p => p.id === b.productId); return PRIORITY_WEIGHT[productB?.priority || '未分類'] - PRIORITY_WEIGHT[productA?.priority || '未分類'] || (productA?.sortOrder ?? 999999) - (productB?.sortOrder ?? 999999) }).map(entry => { const product = products.find(item => item.id === entry.productId)!; const done = isEntered(states, entry.id); return <div className="store-product" key={entry.id}><PriorityBadge priority={product.priority} /><span><strong>{product.name}</strong><small>{done ? '已抽 ✓' : '尚未抽'}</small></span>{done ? <button onClick={() => setStatus(entry.id, 'not-entered')}>取消</button> : <a href={entry.lotteryUrl} target="_blank" rel="noreferrer" onClick={() => setStatus(entry.id, 'entered')}>抽選</a>}</div>})}</div>}</article>})}</div></section>
 }
 
 function PendingView() {

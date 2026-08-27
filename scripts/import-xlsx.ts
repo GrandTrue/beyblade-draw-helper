@@ -11,10 +11,11 @@ const trim = (value: unknown) => String(value ?? '').trim()
 const slug = (value: string) => value.normalize('NFKC').replace(/臺/g, '台').replace(/[－—–]/g, '-').replace(/[^a-zA-Z0-9\u4e00-\u9fff]+/g, '-').replace(/^-|-$/g, '').toLowerCase()
 const normalizeStoreName = (value: unknown) => trim(value).normalize('NFKC').replace(/臺/g, '台').replace(/[－—–]/g, '－')
 const codeFrom = (value: string) => value.toUpperCase().match(/\b(BXG|BX|UX|CX)\s*-?\s*(\d{2})\b/)?.slice(1).join('-')
+const codesFrom = (value: string) => [...value.toUpperCase().matchAll(/\b(BXG|BX|UX|CX)\s*-?\s*(\d{2})\b/g)].map(match => `${match[1]}-${match[2]}`)
 const normalizePriority = (value: unknown): ProductPriority => {
   const text = trim(value)
   if (text === 'C / 低優先') return 'C'
-  return ['S+', 'S', 'A+', 'A', 'B+', 'B', 'C', '低優先'].includes(text) ? text as ProductPriority : '未分類'
+  return ['S+', 'S', 'A+', 'A', 'A-', 'B+', 'B', 'B-', 'C', '低優先'].includes(text) ? text as ProductPriority : '未分類'
 }
 const storePriority = (value: unknown, type: Store['type']): StorePriority => type === 'NON_FUNBOX' ? '非 FUNBOX' : (['優先抽', '可以抽', '稀有商品再抽'].includes(trim(value)) ? trim(value) as StorePriority : '未分類')
 const validUrl = (value: string) => { try { return ['http:', 'https:'].includes(new URL(value).protocol) } catch { return false } }
@@ -44,15 +45,22 @@ const storeByName = new Map(stores.map(store => [store.name, store]))
 
 const products: Product[] = []
 const productById = new Map<string, Product>()
-for (const row of priorityRows) {
-  const rawName = trim(row['商品'])
-  const code = codeFrom(rawName)
+const priorityByCode = new Map<string, { priority: ProductPriority; sortOrder: number; note?: string }>()
+for (const [priorityIndex, row] of priorityRows.entries()) {
+  const rawName = trim(row['商品'] || row['商品／類別'])
+  if (!rawName) continue
+  const codes = codesFrom(rawName)
+  const priority = normalizePriority(row['優先級'])
+  const note = trim(row['備註']) || undefined
+  for (const [codeIndex, itemCode] of codes.entries()) priorityByCode.set(itemCode, { priority, sortOrder: priorityIndex * 100 + codeIndex, note })
+  if (codes.length > 1) continue
+  const code = codes[0]
   const id = code || slug(rawName)
-  const product: Product = { id, code, name: rawName, priority: normalizePriority(row['優先級']), note: trim(row['備註']) || undefined, aliases: [] }
+  const product: Product = { id, code, name: rawName, priority, sortOrder: priorityIndex * 100, note, aliases: [] }
   products.push(product); productById.set(id, product)
 }
 const lotteries: Lottery[] = []
-for (const [index, row] of lotteryRows.entries()) {
+for (const row of lotteryRows) {
   const storeName = normalizeStoreName(row['店家'])
   const rawName = trim(row['商品名字'])
   const url = trim(row['網頁'])
@@ -63,12 +71,13 @@ for (const [index, row] of lotteryRows.entries()) {
   let product = code ? productById.get(code) : undefined
   if (!product) {
     const id = code || `unknown-${slug(rawName)}`
-    product = { id, code, name: rawName, priority: '未分類', aliases: [] }
+    const configured = code ? priorityByCode.get(code) : undefined
+    product = { id, code, name: rawName, priority: configured?.priority || '未分類', sortOrder: configured?.sortOrder ?? 999999, note: configured?.note, aliases: [] }
     products.push(product); productById.set(id, product)
-    warnings.push(`未設定優先級商品：${rawName}`)
+    if (!configured) warnings.push(`未設定優先級商品：${rawName}`)
   }
   if (rawName !== product.name && !product.aliases?.includes(rawName)) product.aliases?.push(rawName)
-  lotteries.push({ id: `${store.id}-${product.id}-${roundId}-${index + 1}`, roundId, storeId: store.id, productId: product.id, productRawName: rawName, lotteryUrl: url })
+  lotteries.push({ id: `${store.id}-${product.id}-${roundId}`, roundId, storeId: store.id, productId: product.id, productRawName: rawName, lotteryUrl: url })
 }
 const rounds: Round[] = [{ id: roundId, name: '8/28 本輪抽選', startDate: roundId, active: true }]
 fs.mkdirSync(path.join('src', 'data'), { recursive: true })
