@@ -1,0 +1,241 @@
+[
+  {
+    "id": "UX-20",
+    "code": "UX-20",
+    "name": "UX-20 榮耀女武神 LF",
+    "priority": "S+",
+    "note": "核心主力備品",
+    "aliases": [
+      "UX-20 榮耀武神LF",
+      "UX-20 榮耀女武神",
+      "UX-20 榮耀戰神"
+    ]
+  },
+  {
+    "id": "UX-15",
+    "code": "UX-15",
+    "name": "UX-15",
+    "priority": "S+",
+    "note": "最新調整",
+    "aliases": []
+  },
+  {
+    "id": "UX-03",
+    "code": "UX-03",
+    "name": "UX-03",
+    "priority": "S+",
+    "note": "最新調整",
+    "aliases": []
+  },
+  {
+    "id": "通行證",
+    "name": "通行證",
+    "priority": "S",
+    "note": "預設最高優先之一",
+    "aliases": []
+  },
+  {
+    "id": "BX-35",
+    "code": "BX-35",
+    "name": "BX-35 隨機強化組 Vol.04",
+    "priority": "S",
+    "note": "最新調整至 S",
+    "aliases": [
+      "BX-35 隨機強化組Vol.4",
+      "BX-35 隨機強化組Vol.04"
+    ]
+  },
+  {
+    "id": "BX-45",
+    "code": "BX-45",
+    "name": "BX-45 武士魂斬 6-70M",
+    "priority": "A+",
+    "note": "主要為了 M，兼補 6-70",
+    "aliases": [
+      "BX-45 武士魂斬"
+    ]
+  },
+  {
+    "id": "CX-18",
+    "code": "CX-18",
+    "name": "CX-18 腕龍鞭打",
+    "priority": "A",
+    "note": "最新調整至 A",
+    "aliases": [
+      "CX-18 腕龍鞭打 隨機強化組",
+      "CX-18 腕龍鞭打隨機強化組"
+    ]
+  },
+  {
+    "id": "BX-33",
+    "code": "BX-33",
+    "name": "BX-33 皓戰猛虎 3-60U",
+    "priority": "A",
+    "note": "3-60 實用",
+    "aliases": [
+      "BX-33 皓戰猛虎"
+    ]
+  },
+  {
+    "id": "BX-50",
+    "code": "BX-50",
+    "name": "BX-50 天堂日輪 隨機強化組",
+    "priority": "B+",
+    "note": "偏抽獎／收藏",
+    "aliases": [
+      "BX-50 天堂日輪 隨機強化",
+      "BX-50 天堂日輪隨機強化組"
+    ]
+  },
+  {
+    "id": "UX-11",
+    "code": "UX-11",
+    "name": "UX-11 衝擊龍神",
+    "priority": "B",
+    "note": "9-60、LR 有備件價值",
+    "aliases": [
+      "UX-11 衝擊龍神 豪華組",
+      "UX-11 衝擊龍神 9-60LR 豪華組"
+    ]
+  },
+  {
+    "id": "UX-02",
+    "code": "UX-02",
+    "name": "UX-02 惡魔戰錘",
+    "priority": "C",
+    "note": "現階段低優先",
+    "aliases": [
+      "UX-02 惡魔戰鎚"
+    ]
+  },
+  {
+    "id": "BX-26",
+    "code": "BX-26",
+    "name": "BX-26 獨角刺心",
+    "priority": "低優先",
+    "note": "補強有限",
+    "aliases": []
+  },
+  {
+    "id": "BXG-01",
+    "code": "BXG-01",
+    "name": "BXG-01 烈焰飛鳳S",
+    "priority": "低優先",
+    "note": "收藏／備品為主",
+    "aliases": [
+      "BXG-01 烈燄飛鳳S"
+    ]
+  },
+  {
+    "id": "BXG-04",
+    "code": "BXG-04",
+    "name": "BXG-04 銀牙烈虎S",
+    "priority": "低優先",
+    "note": "收藏／備品為主",
+    "aliases": []
+  },
+  {
+    "id": "UX-19",
+    "code": "UX-19",
+    "name": "UX-19 子彈獅鷲H",
+    "priority": "未分類",
+    "aliases": []
+  },
+  {
+    "id": "BX-18",
+    "code": "BX-18",
+    "name": "BX-18 X旋風發射器",
+    "priority": "未分類",
+    "aliases": [
+      "BX-18 發射器"
+    ]
+  },
+  {
+    "id": "BX-10",
+    "code": "BX-10",
+    "name": "BX-10 極限衝擊戰鬥盤",
+    "priority": "未分類",
+    "aliases": [
+      "BX-10極限衝擊戰鬥盤"
+    ]
+  },
+  {
+    "id": "BX-00",
+    "code": "BX-00",
+    "name": "BX-00 暴風天馬3-70R",
+    "priority": "未分類",
+    "aliases": [
+      "BX-00 暴風天馬3-70RA",
+      "BX-00 暴風天馬"
+    ]
+  },
+  {
+    "id": "BX-51",
+    "code": "BX-51",
+    "name": "BX-51 旋風發射器（黑綠）",
+    "priority": "未分類",
+    "aliases": [
+      "BX-51 旋風發射器 黑綠",
+      "BX-51 黑綠旋風拉線發射器",
+      "BX-51 蒼旋風發射器/黑綠"
+    ]
+  },
+  {
+    "id": "BX-40",
+    "code": "BX-40",
+    "name": "BX-40 發射器（酒紅）",
+    "priority": "未分類",
+    "aliases": [
+      "BX-40 發射器(酒紅)（左迴旋）",
+      "BX-40 發射器(酒紅)",
+      "BX-40 發射器",
+      "BX-40 發射器(酒紅)左迴",
+      "BX-40 發射器 左迴旋 酒紅"
+    ]
+  },
+  {
+    "id": "BX-57",
+    "code": "BX-57",
+    "name": "BX-57 3V3對戰收納盒（黑）",
+    "priority": "未分類",
+    "aliases": [
+      "BX-57 3V3對戰收納盒 黑",
+      "BX-57 3on3 戰術陀螺收納盒",
+      "BX-57 3V3對戰收納盒黑",
+      "BX-57 3V3 對戰收納盒 黑色版（不含陀螺）"
+    ]
+  },
+  {
+    "id": "BX-25",
+    "code": "BX-25",
+    "name": "BX-25 戰鬥陀螺X專業收納包",
+    "priority": "未分類",
+    "aliases": [
+      "BX-25 戰鬥陀螺專業收納包",
+      "BX-25 專業收納包",
+      "BX-25 專業收納包（不含陀螺）"
+    ]
+  },
+  {
+    "id": "BX-32",
+    "code": "BX-32",
+    "name": "BX-32 寬型極限衝擊戰鬥盤",
+    "priority": "未分類",
+    "aliases": []
+  },
+  {
+    "id": "BX-37",
+    "code": "BX-37",
+    "name": "BX-37 雙重極限衝擊戰鬥盤 豪華組",
+    "priority": "未分類",
+    "aliases": [
+      "BX-37 雙重極限衝擊戰鬥盤豪華組"
+    ]
+  },
+  {
+    "id": "unknown-bxg系列-孩之寶聯名款",
+    "name": "BXG系列 孩之寶聯名款",
+    "priority": "未分類",
+    "aliases": []
+  }
+]
