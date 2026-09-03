@@ -1,1 +1,378 @@
-[]
+[
+  {
+    "id": "三越南西-BX-00-蒼龍神劍-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/safDqUe"
+  },
+  {
+    "id": "三越南西-BX-00-暴風天馬-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "BX-00-暴風天馬",
+    "productRawName": "BX-00 暴風天馬3-70RA",
+    "lotteryUrl": "https://lin.ee/wYrNdRC"
+  },
+  {
+    "id": "三越南西-BX-26-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/T5Wn9bw"
+  },
+  {
+    "id": "三越南西-BX-33-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "BX-33",
+    "productRawName": "BX-33 皓戰猛虎",
+    "lotteryUrl": "https://lin.ee/SCIl52o"
+  },
+  {
+    "id": "三越南西-BXG-01-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈焰飛鳳S",
+    "lotteryUrl": "https://lin.ee/ueidV90"
+  },
+  {
+    "id": "三越南西-BXG-04-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/XJIS7rA"
+  },
+  {
+    "id": "三越南西-BX-45-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "BX-45",
+    "productRawName": "BX-45 武士魂斬",
+    "lotteryUrl": "https://lin.ee/8BKFd8T"
+  },
+  {
+    "id": "三越南西-CX-13-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/5WCU1Vh"
+  },
+  {
+    "id": "三越南西-UX-20-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "UX-20",
+    "productRawName": "UX-20 榮耀武神LF",
+    "lotteryUrl": "https://lin.ee/vneOzIi"
+  },
+  {
+    "id": "三越南西-UX-21-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "三越南西",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔冥界改造組",
+    "lotteryUrl": "https://lin.ee/oD41qlW"
+  },
+  {
+    "id": "地下街-來玩聚-CX-13-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/naqrZLT"
+  },
+  {
+    "id": "地下街-來玩聚-BX-18-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "BX-18",
+    "productRawName": "BX-18 發射器",
+    "lotteryUrl": "https://lin.ee/qo0YNUu"
+  },
+  {
+    "id": "地下街-來玩聚-BX-51-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "BX-51",
+    "productRawName": "BX-51 黑綠旋風拉線發射器",
+    "lotteryUrl": "https://lin.ee/6uMADK5"
+  },
+  {
+    "id": "地下街-來玩聚-UX-20-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-20",
+    "productRawName": "UX-20 榮耀戰神",
+    "lotteryUrl": "https://lin.ee/rgYFBku"
+  },
+  {
+    "id": "地下街-來玩聚-BX-00-暴風天馬-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "BX-00-暴風天馬",
+    "productRawName": "BX-00 暴風天馬",
+    "lotteryUrl": "https://lin.ee/sFJRqbL"
+  },
+  {
+    "id": "地下街-來玩聚-BXG-01-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈焰飛鳳S",
+    "lotteryUrl": "https://lin.ee/XK5mj0F"
+  },
+  {
+    "id": "地下街-來玩聚-UX-21-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔幽冥改造組",
+    "lotteryUrl": "https://lin.ee/z9mO3Wy"
+  },
+  {
+    "id": "地下街-來玩聚-BX-10-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "BX-10",
+    "productRawName": "BX-10 極限衝擊戰鬥盤",
+    "lotteryUrl": "https://lin.ee/sVMalX9j"
+  },
+  {
+    "id": "地下街-來玩聚-BX-26-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/uReFQuK"
+  },
+  {
+    "id": "地下街-來玩聚-UX-02-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-02",
+    "productRawName": "UX-02 惡魔戰錘",
+    "lotteryUrl": "https://lin.ee/5PW6o5y"
+  },
+  {
+    "id": "地下街-來玩聚-BX-33-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "地下街-來玩聚",
+    "productId": "BX-33",
+    "productRawName": "BX-33 皓戰猛虎",
+    "lotteryUrl": "https://lin.ee/WjfQVWWP"
+  },
+  {
+    "id": "台北忠孝遠東sogo-UX-21-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔幽冥改造組",
+    "lotteryUrl": "https://lin.ee/ryTwnfS"
+  },
+  {
+    "id": "台北忠孝遠東sogo-BX-00-蒼龍神劍-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍",
+    "lotteryUrl": "https://lin.ee/ZxPrRKL"
+  },
+  {
+    "id": "台北忠孝遠東sogo-BX-45-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "BX-45",
+    "productRawName": "BX-45 武士魂斬",
+    "lotteryUrl": "https://lin.ee/785PX2p"
+  },
+  {
+    "id": "台北忠孝遠東sogo-CX-13-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/X0ssk1w"
+  },
+  {
+    "id": "台北忠孝遠東sogo-BX-37-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "BX-37",
+    "productRawName": "BX-37 雙重極限衝擊戰鬥盤 豪華組",
+    "lotteryUrl": "https://lin.ee/z17m9mM1"
+  },
+  {
+    "id": "台北忠孝遠東sogo-BX-18-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "BX-18",
+    "productRawName": "BX-18 X旋風發射器 【右迴旋】",
+    "lotteryUrl": "https://lin.ee/rYCfiRS"
+  },
+  {
+    "id": "台北忠孝遠東sogo-UX-20-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "UX-20",
+    "productRawName": "UX-20 榮耀武神",
+    "lotteryUrl": "https://lin.ee/89pxHTa"
+  },
+  {
+    "id": "台北忠孝遠東sogo-BX-51-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "BX-51",
+    "productRawName": "BX-51 旋風發射器 黑綠",
+    "lotteryUrl": "https://lin.ee/tldmGpM"
+  },
+  {
+    "id": "台北忠孝遠東sogo-UX-02-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "UX-02",
+    "productRawName": "UX-02 惡魔戰錘",
+    "lotteryUrl": "https://lin.ee/wSof0Vt"
+  },
+  {
+    "id": "美麗華-UX-20-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "UX-20",
+    "productRawName": "UX-20 榮耀武神",
+    "lotteryUrl": "https://lin.ee/YEjtQAn"
+  },
+  {
+    "id": "美麗華-UX-21-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔冥界改造組",
+    "lotteryUrl": "https://lin.ee/ojSXOr2"
+  },
+  {
+    "id": "美麗華-CX-13-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊BK1-50I",
+    "lotteryUrl": "https://lin.ee/TUogZd8"
+  },
+  {
+    "id": "美麗華-BX-00-蒼龍神劍-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍 3-60 F V2",
+    "lotteryUrl": "https://lin.ee/wWzOz0G"
+  },
+  {
+    "id": "美麗華-BX-26-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心 5-60 GP",
+    "lotteryUrl": "https://lin.ee/SX7w6tZ"
+  },
+  {
+    "id": "美麗華-BX-33-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "BX-33",
+    "productRawName": "BX-33 皓戰猛虎 3-60 U",
+    "lotteryUrl": "https://lin.ee/ZAbTKi7"
+  },
+  {
+    "id": "美麗華-BX-37-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "BX-37",
+    "productRawName": "BX-37 雙重極限衝擊戰鬥盤豪華組",
+    "lotteryUrl": "https://lin.ee/85UmwDEM"
+  },
+  {
+    "id": "美麗華-BX-45-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "BX-45",
+    "productRawName": "BX-45 武士魂斬 6-70M",
+    "lotteryUrl": "https://lin.ee/y1zKx5W"
+  },
+  {
+    "id": "美麗華-BXG-01-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈焰飛鳳S3-80T",
+    "lotteryUrl": "https://lin.ee/zqKWBXd"
+  },
+  {
+    "id": "美麗華-BXG-04-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "美麗華",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S4-80P",
+    "lotteryUrl": "https://lin.ee/xO0pNXN"
+  },
+  {
+    "id": "天母三越-BX-00-暴風天馬-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "天母三越",
+    "productId": "BX-00-暴風天馬",
+    "productRawName": "BX-00 暴風天馬",
+    "lotteryUrl": "https://lin.ee/zfyVDku"
+  },
+  {
+    "id": "天母三越-UX-02-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "天母三越",
+    "productId": "UX-02",
+    "productRawName": "UX-02 惡魔戰錘",
+    "lotteryUrl": "https://lin.ee/9sGjpih"
+  },
+  {
+    "id": "天母三越-BXG-04-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "天母三越",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/UNUtlZi"
+  },
+  {
+    "id": "天母三越-BX-00-蒼龍神劍-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "天母三越",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍V2",
+    "lotteryUrl": "https://lin.ee/PLbLMXo"
+  },
+  {
+    "id": "天母三越-BX-26-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "天母三越",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/qW7Oiqi"
+  },
+  {
+    "id": "天母三越-BXG-01-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "天母三越",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈焰飛鳳S",
+    "lotteryUrl": "https://lin.ee/n4KT7gJ"
+  },
+  {
+    "id": "天母三越-CX-13-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "天母三越",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/nziJiOE"
+  }
+]
