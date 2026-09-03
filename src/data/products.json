@@ -54,7 +54,9 @@
     "priority": "S",
     "sortOrder": 500,
     "note": "主力備品，H 實用",
-    "aliases": []
+    "aliases": [
+      "UX-19 子彈獅鷲H"
+    ]
   },
   {
     "id": "BX-00-蒼龍神劍",
@@ -187,7 +189,9 @@
     "priority": "C",
     "sortOrder": 1800,
     "note": "C",
-    "aliases": []
+    "aliases": [
+      "UX-02 惡魔戰鎚"
+    ]
   },
   {
     "id": "BX-26",
@@ -263,5 +267,13 @@
     "aliases": [
       "BX-37 雙重極限衝擊戰鬥盤豪華組"
     ]
+  },
+  {
+    "id": "CX-12",
+    "code": "CX-12",
+    "name": "CX-12 鳳凰閃焰",
+    "priority": "未分類",
+    "sortOrder": 999999,
+    "aliases": []
   }
 ]

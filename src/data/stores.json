@@ -16,7 +16,7 @@
     "type": "FUNBOX",
     "priority": "稀有商品再抽",
     "lineOfficialId": "@924tguor",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "高島屋百貨",
@@ -56,7 +56,7 @@
     "priority": "可以抽",
     "lineOfficialId": "@983dfazy",
     "facebookUrl": "https://www.facebook.com/profile.php?id=61593106704912&locale=zh_TW",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "中和環球",
@@ -116,7 +116,7 @@
     "priority": "優先抽",
     "lineOfficialId": "@631ovgxp",
     "facebookUrl": "https://www.facebook.com/profile.php?id=61593176934292",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "三越南西",
