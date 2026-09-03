@@ -102,7 +102,13 @@ progress::-moz-progress-bar { background: var(--blue); border-radius: 20px; }
 .progress-copy { flex: 0 0 68px; align-self: center; font-size: 12px; line-height: 1.5; color: var(--muted); text-align: right; white-space: nowrap; }
 .progress-copy progress { width: 100%; margin-top: 8px; height: 4px; }
 .store-entries { border-top: 1px solid var(--line); background: #fafcff; }
-.draw-row { padding: 16px; border-bottom: 1px solid var(--line); }
+.draw-row { padding: 16px; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+.purchase-info { flex: 0 0 100%; min-width: 0; margin-top: 12px; padding: 0 12px 12px; background: var(--soft); border: 1px solid var(--line); border-radius: 8px; color: var(--navy); }
+.purchase-info summary { min-height: 44px; padding: 12px 0; cursor: pointer; font-size: 13px; font-weight: 600; }
+.purchase-info:not([open]) { padding-bottom: 0; }
+.purchase-info p { white-space: pre-line; overflow-wrap: anywhere; font-size: 13px; line-height: 1.8; margin: 0 0 8px; }
+.purchase-info small { display: block; font-size: 12px; line-height: 1.6; color: var(--muted); }
+.store-products > .purchase-info { margin: 12px; }
 .draw-row:last-child { border: 0; }
 .draw-row.done { background: #f0f8f4; }
 .store-name { display: flex; align-items: center; gap: 10px; min-width: 0; }

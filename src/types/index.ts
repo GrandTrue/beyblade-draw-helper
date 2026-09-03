@@ -31,6 +31,7 @@ export interface Lottery {
   productId: string
   productRawName: string
   lotteryUrl: string
+  purchaseNote?: string
 }
 
 export interface Round { id: string; name: string; startDate: string; active: boolean }
