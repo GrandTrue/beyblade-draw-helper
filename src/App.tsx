@@ -5,7 +5,7 @@ import productsData from './data/products.json'
 import lotteriesData from './data/lotteries.json'
 import roundsData from './data/rounds.json'
 import { useDrawStatus } from './hooks/useDrawStatus'
-import type { DrawStateMap, Lottery, Product, ProductPriority, Store } from './types'
+import type { DrawStateMap, Lottery, Product, ProductPriority, Round, Store } from './types'
 import { PRIORITY_ORDER, PRIORITY_WEIGHT, STORE_PRIORITY_WEIGHT } from './utils/constants'
 
 const stores = storesData as Store[]
@@ -32,7 +32,7 @@ export default function App() {
   const [queueOpen, setQueueOpen] = useState(false)
   const { states, setStatus, clear, importStates } = useDrawStatus(profile)
   const inputRef = useRef<HTMLInputElement>(null)
-  const round = roundsData[0]
+  const round = (roundsData as Round[]).find(item => item.active)
 
   const productRows = useMemo(() => products.map(product => {
     const entries = lotteries.filter(lottery => lottery.productId === product.id)
@@ -60,12 +60,12 @@ export default function App() {
   }
 
   return <div className="app-shell">
-    <header className="topbar"><div className="brand-mark"><span className="spinner-mark" /><div><h1>陀螺抽選助手</h1><p>{round?.name || '本輪抽選'}</p></div></div><div className="line-switch"><button className={profile === 'line1' ? 'active' : ''} onClick={() => setProfile('line1')}>LINE 1</button><button className={profile === 'line2' ? 'active' : ''} onClick={() => setProfile('line2')}>LINE 2</button></div></header>
+    <header className="topbar"><div className="brand-mark"><span className="spinner-mark" /><div><h1>陀螺抽選助手</h1><p>{round?.name || '等待新一輪資料'}</p></div></div><div className="line-switch"><button className={profile === 'line1' ? 'active' : ''} onClick={() => setProfile('line1')}>LINE 1</button><button className={profile === 'line2' ? 'active' : ''} onClick={() => setProfile('line2')}>LINE 2</button></div></header>
     <main>
       {view === 'products' && <>
         <section className="summary">
           <div className="arena-lines" aria-hidden="true" />
-          <div className="summary-title"><div><p>目前進度</p><h2>{round?.name || '本輪抽選'}</h2></div><span>{totalEntered} / {lotteries.length}</span></div>
+          <div className="summary-title"><div><p>目前進度</p><h2>{round?.name || '等待新一輪資料'}</h2></div><span>{totalEntered} / {lotteries.length}</span></div>
           <div className="metrics">
             {(['S+', 'S'] as ProductPriority[]).map(level => <div className="metric" key={level}><strong>{productRows.filter(row => row.product.priority === level).reduce((sum, row) => sum + row.pending, 0)}</strong><span>{level} 待抽</span></div>)}
             <div className="metric success"><strong>{totalEntered}</strong><span>已完成</span></div>
@@ -93,7 +93,7 @@ export default function App() {
               })}</div>}
             </article>
           })}
-          {!matchingRows.length && <div className="empty"><Box /><strong>找不到符合條件的商品</strong><span>試著清除搜尋或更換篩選條件。</span></div>}
+          {!matchingRows.length && <div className="empty"><Box /><strong>{lotteries.length ? '找不到符合條件的商品' : '等待新一輪抽選資料'}</strong><span>{lotteries.length ? '試著清除搜尋或更換篩選條件。' : '上一輪抽選連結已清空，店家名單與優先順序已保留。'}</span></div>}
         </section>
       </>}
       {view === 'stores' && <StoreView states={states} setStatus={setStatus} />}
