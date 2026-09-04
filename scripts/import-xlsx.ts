@@ -17,7 +17,11 @@ const rows = <T>(name: string) => XLSX.utils.sheet_to_json<T>(workbook.Sheets[na
 const trim = (value: unknown) => String(value ?? '').trim()
 const slug = (value: string) => value.normalize('NFKC').replace(/臺/g, '台').replace(/[－—–]/g, '-').replace(/[^a-zA-Z0-9\u4e00-\u9fff]+/g, '-').replace(/^-|-$/g, '').toLowerCase()
 const normalizeStoreName = (value: unknown) => trim(value).normalize('NFKC').replace(/臺/g, '台').replace(/[－—–]/g, '－')
-const codeFrom = (value: string) => value.toUpperCase().match(/\b(BXG|BX|UX|CX)\s*-?\s*(\d{2})\b/)?.slice(1).join('-')
+const codeFrom = (value: string) => {
+  const code = value.toUpperCase().match(/\b(BXG|BX|UX|CX)\s*-?\s*(\d{2})\b/)?.slice(1).join('-')
+  // One source row has the known BXG-01 product name with a BX-00 typo.
+  return code === 'BX-00' && /烈[焰燄]飛鳳/.test(value) ? 'BXG-01' : code
+}
 const codesFrom = (value: string) => [...value.toUpperCase().matchAll(/\b(BXG|BX|UX|CX)\s*-?\s*(\d{2})\b/g)].map(match => `${match[1]}-${match[2]}`)
 // BX-00 is shared by distinct products; never share their priority or draw state.
 const productIdFrom = (value: string) => {
@@ -42,10 +46,27 @@ const lotteryRows = rows<Record<string, unknown>>('店家商品')
 const priorityRows = rows<Record<string, unknown>>('商品優先級')
 const warnings: string[] = []
 const lotteryStoreNames = new Set(lotteryRows.map(row => normalizeStoreName(row['店家'])))
+const purchaseNoteByStoreName = new Map<string, string>()
+const formatPurchaseNote = (row: Record<string, unknown>) => {
+  const note = trim(row['備註'])
+  const deadline = trim(row['購買期限']).replace(/；\s*/g, '\n')
+  return [note, deadline && `購買資格券有效期間：\n${deadline}`].filter(Boolean).join('\n')
+}
+const existingPurchaseNoteByStoreId = new Map<string, string>()
+try {
+  const currentLotteries = JSON.parse(fs.readFileSync(path.join('src', 'data', 'lotteries.json'), 'utf8')) as Lottery[]
+  for (const lottery of currentLotteries) {
+    if (lottery.roundId === roundId && lottery.purchaseNote && !existingPurchaseNoteByStoreId.has(lottery.storeId)) existingPurchaseNoteByStoreId.set(lottery.storeId, lottery.purchaseNote)
+  }
+} catch {
+  // A first import has no previous lottery data to preserve.
+}
 
 const stores: Store[] = storeRows.map(row => {
   const name = normalizeStoreName(row['店名'])
   const facebookUrl = trim(row['粉專網址'])
+  const purchaseNote = formatPurchaseNote(row)
+  if (purchaseNote) purchaseNoteByStoreName.set(name, purchaseNote)
   return {
     id: slug(name), name, city: trim(row['城市']), type: 'FUNBOX', priority: storePriority(row['抽選建議分級'], 'FUNBOX'),
     lineOfficialId: trim(row['LINE官方帳號ID']) || undefined,
@@ -55,6 +76,8 @@ const stores: Store[] = storeRows.map(row => {
 })
 for (const row of nonFunboxRows) {
   const name = normalizeStoreName(row['店家'])
+  const purchaseNote = trim(row['備註'])
+  if (purchaseNote) purchaseNoteByStoreName.set(name, purchaseNote)
   stores.push({ id: slug(name), name, city: '非 Funbox', type: 'NON_FUNBOX', priority: '非 FUNBOX', announcementStatus: lotteryStoreNames.has(name) ? 'published' : 'pending' })
 }
 const storeByName = new Map(stores.map(store => [store.name, store]))
@@ -62,12 +85,14 @@ const storeByName = new Map(stores.map(store => [store.name, store]))
 const products: Product[] = []
 const productById = new Map<string, Product>()
 const priorityById = new Map<string, { priority: ProductPriority; sortOrder: number; note?: string }>()
+const priorityByKeyword = new Map<string, { priority: ProductPriority; sortOrder: number; note?: string }>()
 for (const [priorityIndex, row] of priorityRows.entries()) {
   const rawName = trim(row['商品'] || row['商品／類別'])
   if (!rawName) continue
   const codes = codesFrom(rawName)
   const priority = normalizePriority(row['優先級'])
   const note = trim(row['備註']) || undefined
+  if (rawName.includes('孩之寶系列')) priorityByKeyword.set('孩之寶系列', { priority, sortOrder: priorityIndex * 100, note })
   for (const [codeIndex, itemCode] of codes.entries()) priorityById.set(itemCode === 'BX-00' ? productIdFrom(rawName) : itemCode, { priority, sortOrder: priorityIndex * 100 + codeIndex, note })
   if (codes.length > 1) continue
   const code = codes[0]
@@ -87,13 +112,14 @@ for (const row of lotteryRows) {
   const id = productIdFrom(rawName)
   let product = productById.get(id)
   if (!product) {
-    const configured = priorityById.get(id)
+    const configured = priorityById.get(id) || [...priorityByKeyword].find(([keyword]) => rawName.includes(keyword))?.[1]
     product = { id, code, name: rawName, priority: configured?.priority || '未分類', sortOrder: configured?.sortOrder ?? 999999, note: configured?.note, aliases: [] }
     products.push(product); productById.set(id, product)
     if (!configured) warnings.push(`未設定優先級商品：${rawName}`)
   }
   if (rawName !== product.name && !product.aliases?.includes(rawName)) product.aliases?.push(rawName)
-  lotteries.push({ id: `${store.id}-${product.id}-${roundId}`, roundId, storeId: store.id, productId: product.id, productRawName: rawName, lotteryUrl: url })
+  const purchaseNote = purchaseNoteByStoreName.get(storeName) || existingPurchaseNoteByStoreId.get(store.id)
+  lotteries.push({ id: `${store.id}-${product.id}-${roundId}`, roundId, storeId: store.id, productId: product.id, productRawName: rawName, lotteryUrl: url, ...(purchaseNote ? { purchaseNote } : {}) })
 }
 for (const [kind, entries] of Object.entries({ stores, products, lotteries })) {
   const ids = new Set<string>()

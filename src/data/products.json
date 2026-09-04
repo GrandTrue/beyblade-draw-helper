@@ -9,7 +9,8 @@
     "aliases": [
       "UX-20 榮耀武神LF",
       "UX-20 榮耀戰神",
-      "UX-20 榮耀武神"
+      "UX-20 榮耀武神",
+      "UX-20 榮耀女武神"
     ]
   },
   {
@@ -69,7 +70,8 @@
       "BX-00 蒼龍神劍3-60F V2",
       "BX-00 蒼龍神劍",
       "BX-00 蒼龍神劍 3-60 F V2",
-      "BX-00 蒼龍神劍V2"
+      "BX-00 蒼龍神劍V2",
+      "BX-00 蒼龍神劍 3-60F"
     ]
   },
   {
@@ -81,7 +83,8 @@
     "note": "最新調整",
     "aliases": [
       "UX-21 惡魔冥界改造組",
-      "UX-21 惡魔幽冥改造組"
+      "UX-21 惡魔幽冥改造組",
+      "UX-21 惡魔幽冥"
     ]
   },
   {
@@ -92,7 +95,8 @@
     "sortOrder": 800,
     "note": "主要為了 M",
     "aliases": [
-      "BX-45 武士魂斬"
+      "BX-45 武士魂斬",
+      "BX-45 武士斬魂"
     ]
   },
   {
@@ -103,7 +107,8 @@
     "sortOrder": 900,
     "note": "最新調整",
     "aliases": [
-      "CX-13 龍王閃擊BK1-50I"
+      "CX-13 龍王閃擊BK1-50I",
+      "CX-13 龍王閃擊 BK1-50I"
     ]
   },
   {
@@ -139,7 +144,7 @@
     "name": "CX-14",
     "priority": "B+",
     "sortOrder": 1300,
-    "note": "預設 B+；店家出現時自動套用",
+    "note": "預設 B+",
     "aliases": []
   },
   {
@@ -148,7 +153,7 @@
     "name": "CX-15",
     "priority": "B+",
     "sortOrder": 1400,
-    "note": "預設 B+；店家出現時自動套用",
+    "note": "預設 B+",
     "aliases": []
   },
   {
@@ -169,7 +174,9 @@
     "priority": "B",
     "sortOrder": 1600,
     "note": "9-60、LR 有備件價值",
-    "aliases": []
+    "aliases": [
+      "UX-11 衝擊龍神 豪華組"
+    ]
   },
   {
     "id": "BX-00-暴風天馬",
@@ -179,7 +186,8 @@
     "sortOrder": 1700,
     "note": "最新調整",
     "aliases": [
-      "BX-00 暴風天馬3-70RA"
+      "BX-00 暴風天馬3-70RA",
+      "BX-00 暴風天馬3-70R"
     ]
   },
   {
@@ -205,14 +213,39 @@
     ]
   },
   {
+    "id": "CX-12",
+    "code": "CX-12",
+    "name": "CX-12 鳳凰閃焰",
+    "priority": "C-",
+    "sortOrder": 2000,
+    "note": "最新調整",
+    "aliases": [
+      "CX-12 鳳凰閃焰 Z9-80WW"
+    ]
+  },
+  {
+    "id": "BX-30",
+    "code": "BX-30",
+    "name": "握把：BX-30",
+    "priority": "低優先",
+    "sortOrder": 2400,
+    "note": "統一低優先",
+    "aliases": [
+      "BX-30 X發射器改造型握把(黑紅)"
+    ]
+  },
+  {
     "id": "BXG-01",
     "code": "BXG-01",
     "name": "BXG-01 烈焰飛鳳S",
     "priority": "低優先",
-    "sortOrder": 2300,
+    "sortOrder": 2500,
     "note": "收藏／備品為主",
     "aliases": [
-      "BXG-01 烈焰飛鳳S3-80T"
+      "BXG-01 烈焰飛鳳S3-80T",
+      "BXG-01 烈焰飛鳳",
+      "BXG-01 烈燄飛鳳S",
+      "BX-00 烈焰飛鳳S 3-80T"
     ]
   },
   {
@@ -220,10 +253,12 @@
     "code": "BXG-04",
     "name": "BXG-04 銀牙烈虎S",
     "priority": "低優先",
-    "sortOrder": 2301,
+    "sortOrder": 2501,
     "note": "收藏／備品為主",
     "aliases": [
-      "BXG-04 銀牙烈虎S4-80P"
+      "BXG-04 銀牙烈虎S4-80P",
+      "BXG-04 銀牙烈虎",
+      "BXG-04 銀牙獵虎S"
     ]
   },
   {
@@ -231,10 +266,11 @@
     "code": "BX-18",
     "name": "BX-18 發射器",
     "priority": "低優先",
-    "sortOrder": 2000,
+    "sortOrder": 2100,
     "note": "統一低優先",
     "aliases": [
-      "BX-18 X旋風發射器 【右迴旋】"
+      "BX-18 X旋風發射器 【右迴旋】",
+      "BX-18 X旋風發射器"
     ]
   },
   {
@@ -242,7 +278,7 @@
     "code": "BX-51",
     "name": "BX-51 黑綠旋風拉線發射器",
     "priority": "低優先",
-    "sortOrder": 2002,
+    "sortOrder": 2102,
     "note": "統一低優先",
     "aliases": [
       "BX-51 旋風發射器 黑綠"
@@ -253,7 +289,7 @@
     "code": "BX-10",
     "name": "BX-10 極限衝擊戰鬥盤",
     "priority": "低優先",
-    "sortOrder": 2200,
+    "sortOrder": 2300,
     "note": "統一低優先",
     "aliases": []
   },
@@ -262,19 +298,56 @@
     "code": "BX-37",
     "name": "BX-37 雙重極限衝擊戰鬥盤 豪華組",
     "priority": "低優先",
-    "sortOrder": 2202,
+    "sortOrder": 2302,
     "note": "統一低優先",
     "aliases": [
-      "BX-37 雙重極限衝擊戰鬥盤豪華組"
+      "BX-37 雙重極限衝擊戰鬥盤豪華組",
+      "BX-37 雙重極限衝擊戰鬥盤",
+      "BX-37 雙重極限衝擊戰鬥盤 豪華"
     ]
   },
   {
-    "id": "CX-12",
-    "code": "CX-12",
-    "name": "CX-12 鳳凰閃焰",
-    "priority": "C-",
-    "sortOrder": 2000,
-    "note": "最新調整",
+    "id": "BX-25",
+    "code": "BX-25",
+    "name": "BX-25 專業收納包",
+    "priority": "低優先",
+    "sortOrder": 2200,
+    "note": "統一低優先",
+    "aliases": []
+  },
+  {
+    "id": "BX-32",
+    "code": "BX-32",
+    "name": "BX-32 寬型極限衝擊戰鬥盤",
+    "priority": "低優先",
+    "sortOrder": 2301,
+    "note": "統一低優先",
+    "aliases": []
+  },
+  {
+    "id": "BX-40",
+    "code": "BX-40",
+    "name": "BX-40 左迴旋發射器(酒紅)",
+    "priority": "低優先",
+    "sortOrder": 2101,
+    "note": "統一低優先",
+    "aliases": []
+  },
+  {
+    "id": "BX-57",
+    "code": "BX-57",
+    "name": "BX-57 3v3對戰收納盒",
+    "priority": "低優先",
+    "sortOrder": 2201,
+    "note": "統一低優先",
+    "aliases": []
+  },
+  {
+    "id": "unknown-孩之寶系列-依照賣場實際款式為主",
+    "name": "孩之寶系列（依照賣場實際款式為主）",
+    "priority": "低優先",
+    "sortOrder": 2500,
+    "note": "收藏／備品為主",
     "aliases": []
   }
 ]
