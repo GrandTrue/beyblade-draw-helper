@@ -4,6 +4,7 @@ import storesData from './data/stores.json'
 import productsData from './data/products.json'
 import lotteriesData from './data/lotteries.json'
 import roundsData from './data/rounds.json'
+import logoUrl from './assets/beyblade-draw-assistant-logo.png'
 import { PurchaseInfo } from './components/PurchaseInfo'
 import { QueueDialog } from './components/QueueDialog'
 import { useDrawStatus } from './hooks/useDrawStatus'
@@ -76,7 +77,7 @@ export default function App() {
 
   return <div className="app-shell">
     <a className="skip-link" href="#main-content">跳至主要內容</a>
-    <header className="topbar"><div className="brand-mark"><span className="spinner-mark" /><div><h1>陀螺抽選助手</h1><p>{round?.name || '等待新一輪資料'}</p></div></div><div className="line-switch" role="group" aria-label="選擇 LINE 帳號"><button aria-pressed={profile === 'line1'} className={profile === 'line1' ? 'active' : ''} onClick={() => setProfile('line1')}>LINE 1</button><button aria-pressed={profile === 'line2'} className={profile === 'line2' ? 'active' : ''} onClick={() => setProfile('line2')}>LINE 2</button></div></header>
+    <header className="topbar"><div className="brand-mark"><img className="brand-logo" src={logoUrl} alt="" aria-hidden="true" /><div><h1>陀螺抽選助手</h1><p>{round?.name || '等待新一輪資料'}</p></div></div><div className="line-switch" role="group" aria-label="選擇 LINE 帳號"><button aria-pressed={profile === 'line1'} className={profile === 'line1' ? 'active' : ''} onClick={() => setProfile('line1')}>LINE 1</button><button aria-pressed={profile === 'line2'} className={profile === 'line2' ? 'active' : ''} onClick={() => setProfile('line2')}>LINE 2</button></div></header>
     <main id="main-content" tabIndex={-1} className={view === 'products' ? 'workspace' : 'detail-workspace'}>
       {view === 'products' && <>
         <section className="summary">

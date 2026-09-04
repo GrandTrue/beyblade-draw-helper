@@ -28,7 +28,7 @@ button svg, a svg { flex-shrink: 0; width: 18px; height: 18px; }
 .skip-link:focus { top: 8px; }
 .topbar { position: sticky; top: 0; z-index: 30; min-height: 80px; padding: 12px 20px; display: flex; align-items: center; justify-content: space-between; gap: 12px; background: var(--surface); border-bottom: 1px solid var(--line); }
 .brand-mark { display: flex; align-items: center; gap: 12px; min-width: 0; }
-.spinner-mark { width: 36px; height: 36px; flex-shrink: 0; border: 6px solid var(--navy); border-left-color: var(--blue); border-right-color: #cf3c50; border-radius: 50%; transform: rotate(-25deg); }
+.brand-logo { width: 48px; height: 48px; flex: 0 0 48px; object-fit: contain; }
 .topbar h1 { font-size: 18px; font-weight: 750; letter-spacing: -.025em; margin: 0; line-height: 1.4; }
 .topbar p { margin: 3px 0 0; color: var(--muted); font-size: 12px; }
 .line-switch { display: flex; flex-shrink: 0; padding: 4px; background: #edf2f8; border-radius: 10px; }
@@ -183,7 +183,7 @@ progress::-moz-progress-bar { background: var(--blue); border-radius: 20px; }
 @media (max-width: 380px) {
   .topbar { padding: 12px; gap: 8px; }
   .brand-mark { gap: 8px; }
-  .spinner-mark { width: 28px; height: 28px; border-width: 5px; }
+  .brand-logo { width: 40px; height: 40px; flex-basis: 40px; }
   .topbar h1 { font-size: 16px; }
   .line-switch button { padding: 0 8px; }
   .workspace { padding: 12px 12px 0; }
@@ -204,6 +204,7 @@ progress::-moz-progress-bar { background: var(--blue); border-radius: 20px; }
 }
 @media (min-width: 768px) {
   .topbar { margin: 0 24px; padding: 20px 0; min-height: 92px; background: #f2f5f9; }
+  .brand-logo { width: 64px; height: 64px; flex-basis: 64px; }
   .topbar h1 { font-size: 22px; }
   .workspace { padding: 24px; display: grid; grid-template-columns: 280px minmax(0,1fr); column-gap: 28px; align-items: start; }
   .summary { position: sticky; top: 116px; grid-column: 1; grid-row: 1 / span 2; }
