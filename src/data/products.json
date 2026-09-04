@@ -272,8 +272,9 @@
     "id": "CX-12",
     "code": "CX-12",
     "name": "CX-12 鳳凰閃焰",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C-",
+    "sortOrder": 2000,
+    "note": "最新調整",
     "aliases": []
   }
 ]

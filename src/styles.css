@@ -92,7 +92,7 @@ progress::-moz-progress-bar { background: var(--blue); border-radius: 20px; }
 .priority-Bplus { background: #226aa1; }
 .priority-B { background: #286b83; }
 .priority-B- { background: #41677d; }
-.priority-C, .priority-低優先, .priority-未分類 { background: #526274; }
+.priority-C, .priority-C-, .priority-低優先, .priority-未分類 { background: #526274; }
 .priority-低優先, .priority-未分類 { font-size: 11px; }
 .product-copy { min-width: 0; flex: 1; display: flex; flex-direction: column; gap: 3px; }
 .product-copy > strong { font-family: "Segoe UI", sans-serif; font-size: 18px; font-weight: 750; line-height: 1.2; }

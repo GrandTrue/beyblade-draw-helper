@@ -31,7 +31,7 @@ const productIdFrom = (value: string) => {
 const normalizePriority = (value: unknown): ProductPriority => {
   const text = trim(value)
   if (text === 'C / 低優先') return 'C'
-  return ['S+', 'S', 'A+', 'A', 'A-', 'B+', 'B', 'B-', 'C', '低優先'].includes(text) ? text as ProductPriority : '未分類'
+  return ['S+', 'S', 'A+', 'A', 'A-', 'B+', 'B', 'B-', 'C', 'C-', '低優先'].includes(text) ? text as ProductPriority : '未分類'
 }
 const storePriority = (value: unknown, type: Store['type']): StorePriority => type === 'NON_FUNBOX' ? '非 FUNBOX' : (['優先抽', '可以抽', '稀有商品再抽'].includes(trim(value)) ? trim(value) as StorePriority : '未分類')
 const validUrl = (value: string) => { try { return ['http:', 'https:'].includes(new URL(value).protocol) } catch { return false } }

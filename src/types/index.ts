@@ -1,4 +1,4 @@
-export type ProductPriority = 'S+' | 'S' | 'A+' | 'A' | 'A-' | 'B+' | 'B' | 'B-' | 'C' | '低優先' | '未分類'
+export type ProductPriority = 'S+' | 'S' | 'A+' | 'A' | 'A-' | 'B+' | 'B' | 'B-' | 'C' | 'C-' | '低優先' | '未分類'
 export type StorePriority = '優先抽' | '可以抽' | '稀有商品再抽' | '非 FUNBOX' | '未分類'
 export type AnnouncementStatus = 'published' | 'pending' | 'no-draw' | 'unknown'
 export type DrawStatus = 'not-entered' | 'entered' | 'skip'

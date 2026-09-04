@@ -615,5 +615,61 @@
     "productRawName": "BX-37 雙重極限衝擊戰鬥盤 豪華組",
     "lotteryUrl": "https://lin.ee/6kgjSJZ",
     "purchaseNote": "購買券僅適用於 Funbox 遠百信義 A13 購買"
+  },
+  {
+    "id": "南港lalaport-BX-00-蒼龍神劍-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "南港lalaport",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/QdEnSXl"
+  },
+  {
+    "id": "南港lalaport-BX-37-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "南港lalaport",
+    "productId": "BX-37",
+    "productRawName": "BX-37 雙重極限衝擊戰鬥盤 豪華",
+    "lotteryUrl": "https://lin.ee/uOZG7MmO"
+  },
+  {
+    "id": "南港lalaport-BXG-01-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "南港lalaport",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈焰飛鳳S",
+    "lotteryUrl": "https://lin.ee/6vItGOm"
+  },
+  {
+    "id": "南港lalaport-BX-26-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "南港lalaport",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/6u5qGyo"
+  },
+  {
+    "id": "南港lalaport-BXG-04-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "南港lalaport",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙獵虎S",
+    "lotteryUrl": "https://lin.ee/Okt0n5w"
+  },
+  {
+    "id": "南港lalaport-CX-13-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "南港lalaport",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/Yl3gKaX"
+  },
+  {
+    "id": "南港lalaport-UX-20-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "南港lalaport",
+    "productId": "UX-20",
+    "productRawName": "UX-20 榮耀武神LF",
+    "lotteryUrl": "https://lin.ee/8LcgVqW"
   }
 ]
