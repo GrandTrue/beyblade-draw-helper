@@ -570,5 +570,50 @@
     "productRawName": "UX-21 惡魔冥界改造組",
     "lotteryUrl": "https://lin.ee/pJjYgWw",
     "purchaseNote": "購買地點：funbox 天母 SOGO 7 樓專櫃\n購買資格券有效期間：\n2026/9/4（五）11:00～22:00\n2026/9/5（六）11:00～21:00"
+  },
+  {
+    "id": "遠百信義a13-BX-00-蒼龍神劍-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "遠百信義a13",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/6MXlzET",
+    "purchaseNote": "購買券僅適用於 Funbox 遠百信義 A13 購買"
+  },
+  {
+    "id": "遠百信義a13-CX-13-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "遠百信義a13",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/uEkeETF",
+    "purchaseNote": "購買券僅適用於 Funbox 遠百信義 A13 購買"
+  },
+  {
+    "id": "遠百信義a13-UX-20-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "遠百信義a13",
+    "productId": "UX-20",
+    "productRawName": "UX-20 榮耀武神LF",
+    "lotteryUrl": "https://lin.ee/QlgZ79L",
+    "purchaseNote": "購買券僅適用於 Funbox 遠百信義 A13 購買"
+  },
+  {
+    "id": "遠百信義a13-UX-21-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "遠百信義a13",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔冥界改造組",
+    "lotteryUrl": "https://lin.ee/ydwCkmY",
+    "purchaseNote": "購買券僅適用於 Funbox 遠百信義 A13 購買"
+  },
+  {
+    "id": "遠百信義a13-BX-37-2026-09-round-1",
+    "roundId": "2026-09-round-1",
+    "storeId": "遠百信義a13",
+    "productId": "BX-37",
+    "productRawName": "BX-37 雙重極限衝擊戰鬥盤 豪華組",
+    "lotteryUrl": "https://lin.ee/6kgjSJZ",
+    "purchaseNote": "購買券僅適用於 Funbox 遠百信義 A13 購買"
   }
 ]
