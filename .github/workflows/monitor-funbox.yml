@@ -19,9 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: 22
 
@@ -32,7 +32,7 @@ jobs:
         run: node scripts/check-funbox-voom.mjs
 
       - name: Add result to the workflow summary
-        if: always() && hashFiles(format('{0}/funbox-monitor-report.md', runner.temp)) != ''
+        if: steps.monitor.outcome == 'success'
         run: cat "${{ runner.temp }}/funbox-monitor-report.md" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Open or update a GitHub issue when links change
