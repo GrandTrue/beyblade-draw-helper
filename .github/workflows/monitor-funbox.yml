@@ -1,0 +1,69 @@
+name: Monitor Funbox lottery links
+
+on:
+  schedule:
+    # Taiwan time: Thursday and Friday, 10:00-22:00 every two hours.
+    - cron: '0 2,4,6,8,10,12,14 * * 4,5'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: funbox-lottery-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check the 20 public VOOM pages
+        id: monitor
+        env:
+          MONITOR_REPORT: ${{ runner.temp }}/funbox-monitor-report.md
+        run: node scripts/check-funbox-voom.mjs
+
+      - name: Add result to the workflow summary
+        if: always() && hashFiles(format('{0}/funbox-monitor-report.md', runner.temp)) != ''
+        run: cat "${{ runner.temp }}/funbox-monitor-report.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Open or update a GitHub issue when links change
+        if: steps.monitor.outputs.change_count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FINGERPRINT: ${{ steps.monitor.outputs.fingerprint }}
+          REPORT_PATH: ${{ runner.temp }}/funbox-monitor-report.md
+        shell: bash
+        run: |
+          gh label create "funbox-lottery-monitor" \
+            --color "D4FF00" \
+            --description "Funbox 公開抽選連結巡查" \
+            --force
+
+          issue_json="$(gh issue list \
+            --label "funbox-lottery-monitor" \
+            --state open \
+            --limit 1 \
+            --json number,body)"
+          issue_number="$(jq -r '.[0].number // empty' <<< "$issue_json")"
+          previous_body="$(jq -r '.[0].body // empty' <<< "$issue_json")"
+
+          if grep -Fq "<!-- fingerprint:${FINGERPRINT} -->" <<< "$previous_body"; then
+            echo "The same change set has already been reported."
+          elif [[ -n "$issue_number" ]]; then
+            gh issue edit "$issue_number" --body-file "$REPORT_PATH"
+            gh issue comment "$issue_number" --body "巡查發現不同的一批新連結，內容已更新。"
+          else
+            gh issue create \
+              --title "抽選巡查：發現新的 Funbox 連結" \
+              --label "funbox-lottery-monitor" \
+              --body-file "$REPORT_PATH"
+          fi
