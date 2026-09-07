@@ -2,8 +2,11 @@ name: Monitor Funbox lottery links
 
 on:
   schedule:
-    # Taiwan time: Thursday and Friday, 10:00-22:00 every two hours.
-    - cron: '0 2,4,6,8,10,12,14 * * 4,5'
+    # Taiwan time: Thursday, 10:00-22:00 every two hours.
+    - cron: '0 2,4,6,8,10,12,14 * * 4'
+    # Taiwan time: Friday at 10:30 and 11:00.
+    - cron: '30 2 * * 5'
+    - cron: '0 3 * * 5'
   workflow_dispatch:
 
 permissions:
