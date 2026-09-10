@@ -36,7 +36,7 @@
     "priority": "優先抽",
     "lineOfficialId": "@237annfd",
     "facebookUrl": "https://www.facebook.com/share/1K6XRBMujq/",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "板橋遠東",
@@ -199,11 +199,20 @@
     "announcementStatus": "pending"
   },
   {
+    "id": "遠東大巨蛋",
+    "name": "遠東大巨蛋",
+    "city": "台北市",
+    "type": "FUNBOX",
+    "priority": "未分類",
+    "lineOfficialId": "@248eexma",
+    "announcementStatus": "published"
+  },
+  {
     "id": "地下街-來玩聚",
     "name": "地下街-來玩聚",
     "city": "非 Funbox",
     "type": "NON_FUNBOX",
     "priority": "非 FUNBOX",
-    "announcementStatus": "no-draw"
+    "announcementStatus": "published"
   }
 ]

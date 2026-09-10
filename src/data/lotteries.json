@@ -1,57 +1,12 @@
 [
   {
-    "id": "中和環球-CX-00-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "中和環球",
-    "productId": "CX-00",
-    "productRawName": "新世紀福音戰士戰鬥陀螺套組",
-    "lotteryUrl": "https://lin.ee/z0EgAy8",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n購買地點：funbox 中和環球 3 樓專櫃（新北市中和區中山路三段122號3樓）"
-  },
-  {
-    "id": "中和環球-UX-21-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "中和環球",
-    "productId": "UX-21",
-    "productRawName": "UX-21 惡魔幽冥",
-    "lotteryUrl": "https://lin.ee/qro4Qkz",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n購買地點：funbox 中和環球 3 樓專櫃（新北市中和區中山路三段122號3樓）"
-  },
-  {
-    "id": "中和環球-BX-00-蒼龍神劍-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "中和環球",
-    "productId": "BX-00-蒼龍神劍",
-    "productRawName": "BX-00 蒼龍神劍V2",
-    "lotteryUrl": "https://lin.ee/Sgnos11",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n購買地點：funbox 中和環球 3 樓專櫃（新北市中和區中山路三段122號3樓）"
-  },
-  {
-    "id": "中和環球-CX-13-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "中和環球",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/UdigxI5",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n購買地點：funbox 中和環球 3 樓專櫃（新北市中和區中山路三段122號3樓）"
-  },
-  {
-    "id": "中和環球-BX-37-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "中和環球",
-    "productId": "BX-37",
-    "productRawName": "BX-37 雙重極限衝擊戰鬥盤",
-    "lotteryUrl": "https://lin.ee/vmGyKot",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n購買地點：funbox 中和環球 3 樓專櫃（新北市中和區中山路三段122號3樓）"
-  },
-  {
     "id": "台北忠孝遠東sogo-CX-00-2026-09-round-2",
     "roundId": "2026-09-round-2",
     "storeId": "台北忠孝遠東sogo",
     "productId": "CX-00",
     "productRawName": "CX-00 新世紀福音戰士改造組",
     "lotteryUrl": "https://lin.ee/Teeti1U",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於忠孝 SOGO funbox 購買"
+    "purchaseNote": "本券僅適用於忠孝SOGO funbox購買"
   },
   {
     "id": "台北忠孝遠東sogo-BX-00-蒼龍神劍-2026-09-round-2",
@@ -60,7 +15,7 @@
     "productId": "BX-00-蒼龍神劍",
     "productRawName": "BX-00 蒼龍神劍",
     "lotteryUrl": "https://lin.ee/Q3x58xY",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於忠孝 SOGO funbox 購買"
+    "purchaseNote": "本券僅適用於忠孝SOGO funbox購買"
   },
   {
     "id": "台北忠孝遠東sogo-BX-37-2026-09-round-2",
@@ -69,187 +24,7 @@
     "productId": "BX-37",
     "productRawName": "BX-37 雙重極限衝擊戰鬥盤 豪華組",
     "lotteryUrl": "https://lin.ee/6myV5gy",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於忠孝 SOGO funbox 購買"
-  },
-  {
-    "id": "汐科遠雄-CX-00-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "汐科遠雄",
-    "productId": "CX-00",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/UHqMK5X",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於汐科遠雄 funbox 購買\n本次商品部分盒況明顯不佳，能接受再參加抽選"
-  },
-  {
-    "id": "汐科遠雄-BX-00-暴風天馬-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "汐科遠雄",
-    "productId": "BX-00-暴風天馬",
-    "productRawName": "BX-00 暴風天馬3-70R",
-    "lotteryUrl": "https://lin.ee/n6US1jV",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於汐科遠雄 funbox 購買"
-  },
-  {
-    "id": "汐科遠雄-BXG-04-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "汐科遠雄",
-    "productId": "BXG-04",
-    "productRawName": "BXG-04 銀牙烈虎S",
-    "lotteryUrl": "https://lin.ee/58XYS5A",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於汐科遠雄 funbox 購買"
-  },
-  {
-    "id": "汐科遠雄-BXG-01-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "汐科遠雄",
-    "productId": "BXG-01",
-    "productRawName": "BXG-01 烈燄飛鳳S",
-    "lotteryUrl": "https://lin.ee/NNAyTM8",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於汐科遠雄 funbox 購買"
-  },
-  {
-    "id": "汐科遠雄-BX-26-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "汐科遠雄",
-    "productId": "BX-26",
-    "productRawName": "BX-26 獨角刺心",
-    "lotteryUrl": "https://lin.ee/V7BEn2I",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於汐科遠雄 funbox 購買"
-  },
-  {
-    "id": "汐科遠雄-CX-13-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "汐科遠雄",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/UizxRku",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於汐科遠雄 funbox 購買"
-  },
-  {
-    "id": "汐科遠雄-UX-21-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "汐科遠雄",
-    "productId": "UX-21",
-    "productRawName": "UX-21 惡魔冥界改造組",
-    "lotteryUrl": "https://lin.ee/8552VhL",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於汐科遠雄 funbox 購買"
-  },
-  {
-    "id": "汐科遠雄-BX-00-蒼龍神劍-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "汐科遠雄",
-    "productId": "BX-00-蒼龍神劍",
-    "productRawName": "BX-00 蒼龍神劍",
-    "lotteryUrl": "https://lin.ee/7PHWVG7",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於汐科遠雄 funbox 購買"
-  },
-  {
-    "id": "板橋遠東-BXG-04-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "板橋遠東",
-    "productId": "BXG-04",
-    "productRawName": "BXG-04 銀牙烈虎S",
-    "lotteryUrl": "https://lin.ee/7Qp0lON",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於板橋遠東 funbox 購買"
-  },
-  {
-    "id": "板橋遠東-BX-00-蒼龍神劍-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "板橋遠東",
-    "productId": "BX-00-蒼龍神劍",
-    "productRawName": "BX-00 蒼龍神劍V2",
-    "lotteryUrl": "https://lin.ee/p6Hm7YO",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於板橋遠東 funbox 購買"
-  },
-  {
-    "id": "板橋遠東-CX-00-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "板橋遠東",
-    "productId": "CX-00",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/vAF5QKG",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於板橋遠東 funbox 購買"
-  },
-  {
-    "id": "板橋遠東-UX-20-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "板橋遠東",
-    "productId": "UX-20",
-    "productRawName": "UX-20 榮耀武神LF",
-    "lotteryUrl": "https://lin.ee/yKmsW9Y",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於板橋遠東 funbox 購買"
-  },
-  {
-    "id": "板橋遠東-UX-21-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "板橋遠東",
-    "productId": "UX-21",
-    "productRawName": "UX-21 惡魔冥界改造組",
-    "lotteryUrl": "https://lin.ee/Q7Ubro4",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於板橋遠東 funbox 購買"
-  },
-  {
-    "id": "潤泰南港車站店-BX-00-蒼龍神劍-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "潤泰南港車站店",
-    "productId": "BX-00-蒼龍神劍",
-    "productRawName": "BX-00 蒼龍神劍3-60F V2",
-    "lotteryUrl": "https://lin.ee/V2XrEqY",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於南港潤泰店 funbox 購買"
-  },
-  {
-    "id": "潤泰南港車站店-BX-26-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "潤泰南港車站店",
-    "productId": "BX-26",
-    "productRawName": "BX-26 獨角刺心",
-    "lotteryUrl": "https://lin.ee/xrvbsaJ",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於南港潤泰店 funbox 購買"
-  },
-  {
-    "id": "潤泰南港車站店-BXG-01-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "潤泰南港車站店",
-    "productId": "BXG-01",
-    "productRawName": "BXG-01 烈焰飛鳳S",
-    "lotteryUrl": "https://lin.ee/PtEatZV",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於南港潤泰店 funbox 購買"
-  },
-  {
-    "id": "潤泰南港車站店-BXG-04-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "潤泰南港車站店",
-    "productId": "BXG-04",
-    "productRawName": "BXG-04 銀牙烈虎S",
-    "lotteryUrl": "https://lin.ee/8FfX2UL",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於南港潤泰店 funbox 購買"
-  },
-  {
-    "id": "潤泰南港車站店-CX-13-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "潤泰南港車站店",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/x5H1ZjY",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於南港潤泰店 funbox 購買"
-  },
-  {
-    "id": "潤泰南港車站店-BX-00-暴風天馬-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "潤泰南港車站店",
-    "productId": "BX-00-暴風天馬",
-    "productRawName": "BX-00 暴風天馬3-70RA",
-    "lotteryUrl": "https://lin.ee/79aYEfH",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於南港潤泰店 funbox 購買"
-  },
-  {
-    "id": "潤泰南港車站店-CX-00-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "潤泰南港車站店",
-    "productId": "CX-00",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/9ORwvJh",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於南港潤泰店 funbox 購買"
+    "purchaseNote": "本券僅適用於忠孝SOGO funbox購買"
   },
   {
     "id": "三越站前-CX-00-2026-09-round-2",
@@ -258,160 +33,7 @@
     "productId": "CX-00",
     "productRawName": "CX-00 新世紀福音戰士改造組",
     "lotteryUrl": "https://lin.ee/wNVQFEw",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 funbox 新光三越站前店購買"
-  },
-  {
-    "id": "信義新天地a8館-CX-12-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "信義新天地a8館",
-    "productId": "CX-12",
-    "productRawName": "CX-12 鳳凰閃焰",
-    "lotteryUrl": "https://lin.ee/qtETM0Z",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於信義 A8 funbox 購買"
-  },
-  {
-    "id": "信義新天地a8館-CX-13-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "信義新天地a8館",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/8ui3pQS",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於信義 A8 funbox 購買"
-  },
-  {
-    "id": "信義新天地a8館-BX-00-蒼龍神劍-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "信義新天地a8館",
-    "productId": "BX-00-蒼龍神劍",
-    "productRawName": "BX-00 蒼龍神劍3-60F V2",
-    "lotteryUrl": "https://lin.ee/NsYCTEy",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於信義 A8 funbox 購買"
-  },
-  {
-    "id": "信義新天地a8館-CX-00-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "信義新天地a8館",
-    "productId": "CX-00",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/U0irnFS",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於信義 A8 funbox 購買"
-  },
-  {
-    "id": "樹林秀泰-CX-00-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "CX-00",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/nMMo9F9",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BX-25-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BX-25",
-    "productRawName": "BX-25 專業收納包",
-    "lotteryUrl": "https://lin.ee/vyKYuXu",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BX-57-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BX-57",
-    "productRawName": "BX-57 3v3對戰收納盒",
-    "lotteryUrl": "https://lin.ee/x6lajAo",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BXG-04-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BXG-04",
-    "productRawName": "BXG-04 銀牙烈虎S",
-    "lotteryUrl": "https://lin.ee/rsycL2q",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BX-10-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BX-10",
-    "productRawName": "BX-10 極限衝擊戰鬥盤",
-    "lotteryUrl": "https://lin.ee/qVQi9m3",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BXG-01-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BXG-01",
-    "productRawName": "BXG-01 烈焰飛鳳",
-    "lotteryUrl": "https://lin.ee/svvpyy8",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BX-30-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BX-30",
-    "productRawName": "BX-30 發射器握把（黑紅）",
-    "lotteryUrl": "https://lin.ee/6sbALkLw",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-UX-21-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "UX-21",
-    "productRawName": "UX-21 惡魔冥界改造組",
-    "lotteryUrl": "https://lin.ee/7dR60o7",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BX-18-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BX-18",
-    "productRawName": "BX-18 X旋風發射器",
-    "lotteryUrl": "https://lin.ee/8Mgc2Ra",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BX-00-蒼龍神劍-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BX-00-蒼龍神劍",
-    "productRawName": "BX-00 蒼龍神劍V2",
-    "lotteryUrl": "https://lin.ee/sCU4pitK",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BX-45-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BX-45",
-    "productRawName": "BX-45 武士魂斬",
-    "lotteryUrl": "https://lin.ee/7jUJs9F",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-BX-26-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "BX-26",
-    "productRawName": "BX-26 獨角刺心",
-    "lotteryUrl": "https://lin.ee/U0394RC",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
-  },
-  {
-    "id": "樹林秀泰-CX-13-2026-09-round-2",
-    "roundId": "2026-09-round-2",
-    "storeId": "樹林秀泰",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/UYv5QPl",
-    "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
+    "purchaseNote": "本券僅適用於funbox新光三越站前店購買"
   },
   {
     "id": "天母sogo-BX-00-蒼龍神劍-2026-09-round-2",
@@ -420,7 +42,7 @@
     "productId": "BX-00-蒼龍神劍",
     "productRawName": "BX-00 蒼龍神劍3-60F V2",
     "lotteryUrl": "https://lin.ee/y4j0PVB",
-    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 天母 SOGO 7 樓專櫃（台北市士林區中山北路六段77號七樓）"
+    "purchaseNote": "購買地點：funbox 天母SOGO 7樓專櫃；地址：台北市士林區中山北路六段77號七樓\n購買資格券有效期間：\n2026/09/11 11:00～22:00\n2026/09/12 11:00～21:00"
   },
   {
     "id": "天母sogo-CX-13-2026-09-round-2",
@@ -429,7 +51,7 @@
     "productId": "CX-13",
     "productRawName": "CX-13 龍王閃擊",
     "lotteryUrl": "https://lin.ee/sW8NexE",
-    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 天母 SOGO 7 樓專櫃（台北市士林區中山北路六段77號七樓）"
+    "purchaseNote": "購買地點：funbox 天母SOGO 7樓專櫃；地址：台北市士林區中山北路六段77號七樓\n購買資格券有效期間：\n2026/09/11 11:00～22:00\n2026/09/12 11:00～21:00"
   },
   {
     "id": "天母sogo-CX-00-2026-09-round-2",
@@ -438,7 +60,358 @@
     "productId": "CX-00",
     "productRawName": "CX-00 新世紀福音戰士改造組",
     "lotteryUrl": "https://lin.ee/uq6jtZa",
-    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 天母 SOGO 7 樓專櫃（台北市士林區中山北路六段77號七樓）"
+    "purchaseNote": "購買地點：funbox 天母SOGO 7樓專櫃；地址：台北市士林區中山北路六段77號七樓\n購買資格券有效期間：\n2026/09/11 11:00～22:00\n2026/09/12 11:00～21:00"
+  },
+  {
+    "id": "板橋遠東-BXG-04-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "板橋遠東",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/7Qp0lON",
+    "purchaseNote": "本券僅適用於板橋遠東 funbox購買"
+  },
+  {
+    "id": "板橋遠東-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "板橋遠東",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍V2",
+    "lotteryUrl": "https://lin.ee/p6Hm7YO",
+    "purchaseNote": "本券僅適用於板橋遠東 funbox購買"
+  },
+  {
+    "id": "板橋遠東-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "板橋遠東",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/vAF5QKG",
+    "purchaseNote": "本券僅適用於板橋遠東 funbox購買"
+  },
+  {
+    "id": "板橋遠東-UX-20-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "板橋遠東",
+    "productId": "UX-20",
+    "productRawName": "UX-20 榮耀武神LF",
+    "lotteryUrl": "https://lin.ee/yKmsW9Y",
+    "purchaseNote": "本券僅適用於板橋遠東 funbox購買"
+  },
+  {
+    "id": "板橋遠東-UX-21-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "板橋遠東",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔冥界改造組",
+    "lotteryUrl": "https://lin.ee/Q7Ubro4",
+    "purchaseNote": "本券僅適用於板橋遠東 funbox購買"
+  },
+  {
+    "id": "信義新天地a8館-CX-12-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "信義新天地a8館",
+    "productId": "CX-12",
+    "productRawName": "CX-12 鳳凰閃焰",
+    "lotteryUrl": "https://lin.ee/qtETM0Z",
+    "purchaseNote": "本券僅適用於信義A8 funbox購買"
+  },
+  {
+    "id": "信義新天地a8館-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "信義新天地a8館",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/8ui3pQS",
+    "purchaseNote": "本券僅適用於信義A8 funbox購買"
+  },
+  {
+    "id": "信義新天地a8館-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "信義新天地a8館",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/NsYCTEy",
+    "purchaseNote": "本券僅適用於信義A8 funbox購買"
+  },
+  {
+    "id": "信義新天地a8館-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "信義新天地a8館",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/U0irnFS",
+    "purchaseNote": "本券僅適用於信義A8 funbox購買"
+  },
+  {
+    "id": "遠東大巨蛋-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/X1pZee1",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "遠東大巨蛋-UX-21-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔幽冥改造組",
+    "lotteryUrl": "https://lin.ee/5IF5vF4",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "遠東大巨蛋-BX-48-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "BX-48",
+    "productRawName": "BX-48 隨機強化組 Vol.9",
+    "lotteryUrl": "https://lin.ee/w3866W7",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "遠東大巨蛋-UX-18-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "UX-18",
+    "productRawName": "UX-18 隨機強化組 Vol.8",
+    "lotteryUrl": "https://lin.ee/UcPmd8e",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "遠東大巨蛋-CX-17-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "CX-17",
+    "productRawName": "CX-17 隨機強化組 Vol.10",
+    "lotteryUrl": "https://lin.ee/yiJzLRM",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "遠東大巨蛋-UX-20-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "UX-20",
+    "productRawName": "UX-20 榮耀戰神",
+    "lotteryUrl": "https://lin.ee/Q0cOFTaU",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "遠東大巨蛋-CX-04-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "CX-04",
+    "productRawName": "CX-04 極限衝擊對戰組U",
+    "lotteryUrl": "https://lin.ee/8mOCdFk",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "遠東大巨蛋-CX-11-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "CX-11",
+    "productRawName": "CX-11 帝王威能改造組",
+    "lotteryUrl": "https://lin.ee/tuA7MnW",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "遠東大巨蛋-CX-08-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "CX-08",
+    "productRawName": "CX-08 隨機強化組 Vol.7",
+    "lotteryUrl": "https://lin.ee/TTGIk3a",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "遠東大巨蛋-BX-37-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "遠東大巨蛋",
+    "productId": "BX-37",
+    "productRawName": "BX-37 雙重極限衝擊戰鬥盤豪華組",
+    "lotteryUrl": "https://lin.ee/OduNmlj",
+    "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "汐科遠雄-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "汐科遠雄",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/UHqMK5X",
+    "purchaseNote": "CX-00 部分盒況明顯不佳；本券僅適用於汐科遠雄 funbox購買"
+  },
+  {
+    "id": "汐科遠雄-BX-00-暴風天馬-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "汐科遠雄",
+    "productId": "BX-00-暴風天馬",
+    "productRawName": "BX-00 暴風天馬3-70R",
+    "lotteryUrl": "https://lin.ee/n6US1jV",
+    "purchaseNote": "CX-00 部分盒況明顯不佳；本券僅適用於汐科遠雄 funbox購買"
+  },
+  {
+    "id": "汐科遠雄-BXG-04-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "汐科遠雄",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/58XYS5A",
+    "purchaseNote": "CX-00 部分盒況明顯不佳；本券僅適用於汐科遠雄 funbox購買"
+  },
+  {
+    "id": "汐科遠雄-BXG-01-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "汐科遠雄",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈燄飛鳳S",
+    "lotteryUrl": "https://lin.ee/NNAyTM8",
+    "purchaseNote": "CX-00 部分盒況明顯不佳；本券僅適用於汐科遠雄 funbox購買"
+  },
+  {
+    "id": "汐科遠雄-BX-26-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "汐科遠雄",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/V7BEn2I",
+    "purchaseNote": "CX-00 部分盒況明顯不佳；本券僅適用於汐科遠雄 funbox購買"
+  },
+  {
+    "id": "汐科遠雄-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "汐科遠雄",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/UizxRku",
+    "purchaseNote": "CX-00 部分盒況明顯不佳；本券僅適用於汐科遠雄 funbox購買"
+  },
+  {
+    "id": "汐科遠雄-UX-21-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "汐科遠雄",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔冥界改造組",
+    "lotteryUrl": "https://lin.ee/8552VhL",
+    "purchaseNote": "CX-00 部分盒況明顯不佳；本券僅適用於汐科遠雄 funbox購買"
+  },
+  {
+    "id": "汐科遠雄-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "汐科遠雄",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍",
+    "lotteryUrl": "https://lin.ee/7PHWVG7",
+    "purchaseNote": "CX-00 部分盒況明顯不佳；本券僅適用於汐科遠雄 funbox購買"
+  },
+  {
+    "id": "潤泰南港車站店-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "潤泰南港車站店",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/V2XrEqY",
+    "purchaseNote": "本券僅適用於南港潤泰店 funbox 購買"
+  },
+  {
+    "id": "潤泰南港車站店-BX-26-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "潤泰南港車站店",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/xrvbsaJ",
+    "purchaseNote": "本券僅適用於南港潤泰店 funbox 購買"
+  },
+  {
+    "id": "潤泰南港車站店-BXG-01-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "潤泰南港車站店",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈焰飛鳳S",
+    "lotteryUrl": "https://lin.ee/PtEatZV",
+    "purchaseNote": "本券僅適用於南港潤泰店 funbox 購買"
+  },
+  {
+    "id": "潤泰南港車站店-BXG-04-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "潤泰南港車站店",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/8FfX2UL",
+    "purchaseNote": "本券僅適用於南港潤泰店 funbox 購買"
+  },
+  {
+    "id": "潤泰南港車站店-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "潤泰南港車站店",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/x5H1ZjY",
+    "purchaseNote": "本券僅適用於南港潤泰店 funbox 購買"
+  },
+  {
+    "id": "潤泰南港車站店-BX-00-暴風天馬-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "潤泰南港車站店",
+    "productId": "BX-00-暴風天馬",
+    "productRawName": "BX-00 暴風天馬3-70RA",
+    "lotteryUrl": "https://lin.ee/79aYEfH",
+    "purchaseNote": "本券僅適用於南港潤泰店 funbox 購買"
+  },
+  {
+    "id": "潤泰南港車站店-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "潤泰南港車站店",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/9ORwvJh",
+    "purchaseNote": "本券僅適用於南港潤泰店 funbox 購買"
+  },
+  {
+    "id": "中和環球-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "中和環球",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/z0EgAy8",
+    "purchaseNote": "購買地點：funbox 中和環球3樓專櫃；地址：新北市中和區中山路三段122號3樓"
+  },
+  {
+    "id": "中和環球-UX-21-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "中和環球",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔幽冥",
+    "lotteryUrl": "https://lin.ee/qro4Qkz",
+    "purchaseNote": "購買地點：funbox 中和環球3樓專櫃；地址：新北市中和區中山路三段122號3樓"
+  },
+  {
+    "id": "中和環球-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "中和環球",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍V2",
+    "lotteryUrl": "https://lin.ee/Sgnos11",
+    "purchaseNote": "購買地點：funbox 中和環球3樓專櫃；地址：新北市中和區中山路三段122號3樓"
+  },
+  {
+    "id": "中和環球-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "中和環球",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/UdigxI5",
+    "purchaseNote": "購買地點：funbox 中和環球3樓專櫃；地址：新北市中和區中山路三段122號3樓"
+  },
+  {
+    "id": "中和環球-BX-37-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "中和環球",
+    "productId": "BX-37",
+    "productRawName": "BX-37 雙重極限衝擊戰鬥盤",
+    "lotteryUrl": "https://lin.ee/vmGyKot",
+    "purchaseNote": "購買地點：funbox 中和環球3樓專櫃；地址：新北市中和區中山路三段122號3樓"
   },
   {
     "id": "新店裕隆城-BX-37-2026-09-round-2",
@@ -447,7 +420,7 @@
     "productId": "BX-37",
     "productRawName": "BX-37 雙重極限衝擊戰鬥盤豪華組",
     "lotteryUrl": "https://lin.ee/RyYyWOo",
-    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 新店誠品店 3 樓專櫃（新北市新店區中興路三段70號）"
+    "purchaseNote": "購買地點：funbox 新店誠品店 3樓專櫃；地址：新北市新店區中興路三段70號\n購買資格券有效期間：\n2026/09/11 11:00～22:00\n2026/09/12 11:00～21:00"
   },
   {
     "id": "新店裕隆城-CX-12-2026-09-round-2",
@@ -456,24 +429,235 @@
     "productId": "CX-12",
     "productRawName": "CX-12 鳳凰閃焰 Z9-80WW",
     "lotteryUrl": "https://lin.ee/vk3CI4g",
-    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 新店誠品店 3 樓專櫃（新北市新店區中興路三段70號）"
+    "purchaseNote": "購買地點：funbox 新店誠品店 3樓專櫃；地址：新北市新店區中興路三段70號\n購買資格券有效期間：\n2026/09/11 11:00～22:00\n2026/09/12 11:00～21:00"
   },
   {
     "id": "新店裕隆城-BX-00-蒼龍神劍-2026-09-round-2",
     "roundId": "2026-09-round-2",
     "storeId": "新店裕隆城",
     "productId": "BX-00-蒼龍神劍",
-    "productRawName": "BX-00 蒼龍神劍3-60F",
+    "productRawName": "BX-00 蒼龍神劍 3-60F",
     "lotteryUrl": "https://lin.ee/r1IXPQE",
-    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 新店誠品店 3 樓專櫃（新北市新店區中興路三段70號）"
+    "purchaseNote": "購買地點：funbox 新店誠品店 3樓專櫃；地址：新北市新店區中興路三段70號\n購買資格券有效期間：\n2026/09/11 11:00～22:00\n2026/09/12 11:00～21:00"
   },
   {
     "id": "新店裕隆城-CX-00-2026-09-round-2",
     "roundId": "2026-09-round-2",
     "storeId": "新店裕隆城",
     "productId": "CX-00",
-    "productRawName": "CX-00 新世紀福音戰士戰鬥陀螺限定套組",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
     "lotteryUrl": "https://lin.ee/51lxU5K",
-    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 新店誠品店 3 樓專櫃（新北市新店區中興路三段70號）"
+    "purchaseNote": "購買地點：funbox 新店誠品店 3樓專櫃；地址：新北市新店區中興路三段70號\n購買資格券有效期間：\n2026/09/11 11:00～22:00\n2026/09/12 11:00～21:00"
+  },
+  {
+    "id": "樹林秀泰-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/nMMo9F9",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BX-25-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BX-25",
+    "productRawName": "BX-25 專業收納包",
+    "lotteryUrl": "https://lin.ee/vyKYuXu",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BX-57-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BX-57",
+    "productRawName": "BX-57 3v3對戰收納盒",
+    "lotteryUrl": "https://lin.ee/x6lajAo",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BXG-04-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/rsycL2q",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BX-10-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BX-10",
+    "productRawName": "BX-10 極限衝擊戰鬥盤",
+    "lotteryUrl": "https://lin.ee/qVQi9m3",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BXG-01-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈焰飛鳳",
+    "lotteryUrl": "https://lin.ee/svvpyy8",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BX-30-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BX-30",
+    "productRawName": "BX-30 發射器握把（黑紅）",
+    "lotteryUrl": "https://lin.ee/6sbALkLw",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-UX-21-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔冥界改造組",
+    "lotteryUrl": "https://lin.ee/7dR60o7",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BX-18-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BX-18",
+    "productRawName": "BX-18 X旋風發射器",
+    "lotteryUrl": "https://lin.ee/8Mgc2Ra",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍V2",
+    "lotteryUrl": "https://lin.ee/sCU4pitK",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BX-45-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BX-45",
+    "productRawName": "BX-45 武士魂斬",
+    "lotteryUrl": "https://lin.ee/7jUJs9F",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-BX-26-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/U0394RC",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "樹林秀泰-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "樹林秀泰",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/UYv5QPl",
+    "purchaseNote": "本券僅適用於FUNBOX樹林秀泰購買；每人限持一個帳號抽獎／購買"
+  },
+  {
+    "id": "天母三越-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "天母三越",
+    "productId": "CX-00",
+    "productRawName": "CX-00 福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/rFVhsbI",
+    "purchaseNote": "本券僅適用於天母三越 funbox購買"
+  },
+  {
+    "id": "天母三越-BX-00-暴風天馬-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "天母三越",
+    "productId": "BX-00-暴風天馬",
+    "productRawName": "BX-00 暴風天馬",
+    "lotteryUrl": "https://lin.ee/629xw4m",
+    "purchaseNote": "本券僅適用於天母三越 funbox購買"
+  },
+  {
+    "id": "天母三越-BXG-04-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "天母三越",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/WYNMaUp",
+    "purchaseNote": "本券僅適用於天母三越 funbox購買"
+  },
+  {
+    "id": "天母三越-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "天母三越",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍V2",
+    "lotteryUrl": "https://lin.ee/yxZblNk",
+    "purchaseNote": "本券僅適用於天母三越 funbox購買"
+  },
+  {
+    "id": "天母三越-BX-26-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "天母三越",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/Pxw2I5hu",
+    "purchaseNote": "本券僅適用於天母三越 funbox購買"
+  },
+  {
+    "id": "天母三越-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "天母三越",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/rU3f6Ng",
+    "purchaseNote": "本券僅適用於天母三越 funbox購買"
+  },
+  {
+    "id": "地下街-來玩聚-UX-21-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔幽冥改造組",
+    "lotteryUrl": "https://lin.ee/YUyfSal"
+  },
+  {
+    "id": "地下街-來玩聚-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/65obJEn"
+  },
+  {
+    "id": "地下街-來玩聚-BX-00-暴風天馬-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "地下街-來玩聚",
+    "productId": "BX-00-暴風天馬",
+    "productRawName": "BX-00 暴風天馬",
+    "lotteryUrl": "https://lin.ee/ZDvzc3y"
+  },
+  {
+    "id": "地下街-來玩聚-BXG-01-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "地下街-來玩聚",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈焰飛鳳S",
+    "lotteryUrl": "https://lin.ee/n3AkNVM"
+  },
+  {
+    "id": "地下街-來玩聚-BX-33-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "地下街-來玩聚",
+    "productId": "BX-33",
+    "productRawName": "BX-33 皓戰猛虎",
+    "lotteryUrl": "https://lin.ee/qQ1H5jp"
   }
 ]
