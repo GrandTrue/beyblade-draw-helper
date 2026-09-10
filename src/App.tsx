@@ -51,7 +51,7 @@ export default function App() {
   })
   const totalEntered = lotteries.filter(entry => isEntered(states, entry.id)).length
   const pendingCount = stores.filter(store => store.announcementStatus === 'pending').length
-  const highQueue = productRows.flatMap(row => ['S+', 'S'].includes(row.product.priority) ? row.entries.filter(entry => !isEntered(states, entry.id)).map(entry => ({ ...row, entry })) : [])
+  const highQueue = productRows.flatMap(row => ['S+', 'S', 'S-'].includes(row.product.priority) ? row.entries.filter(entry => !isEntered(states, entry.id)).map(entry => ({ ...row, entry })) : [])
   const currentQueue = highQueue[0]
   useEffect(() => {
     if (queueOpen && !currentQueue) setQueueOpen(false)

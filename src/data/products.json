@@ -63,9 +63,9 @@
     "id": "BX-00-蒼龍神劍",
     "code": "BX-00",
     "name": "BX-00 蒼龍神劍 3-60F V2",
-    "priority": "S",
+    "priority": "A",
     "sortOrder": 600,
-    "note": "新商品，S 級",
+    "note": "本輪優先級調整為 A",
     "aliases": [
       "BX-00 蒼龍神劍3-60F V2",
       "BX-00 蒼龍神劍",
@@ -354,9 +354,9 @@
     "id": "CX-00",
     "code": "CX-00",
     "name": "CX-00 新世紀福音戰士改造組",
-    "priority": "未分類",
-    "sortOrder": 2600,
-    "note": "本輪新商品，待確認優先級",
+    "priority": "S-",
+    "sortOrder": 650,
+    "note": "本輪優先級調整為 S-",
     "aliases": [
       "CX-00新世紀福音戰士改造組",
       "新世紀福音戰士戰鬥陀螺套組"

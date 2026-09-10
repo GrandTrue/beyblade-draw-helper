@@ -86,6 +86,7 @@ progress::-moz-progress-bar { background: var(--blue); border-radius: 20px; }
 .priority { display: inline-grid; place-items: center; width: 40px; height: 40px; flex: 0 0 40px; border-radius: 8px; background: #526274; color: white; font-family: "Segoe UI", sans-serif; font-size: 16px; font-weight: 750; white-space: nowrap; }
 .priority-Splus { background: #b92841; }
 .priority-S { background: #a14609; }
+.priority-S- { background: #88451e; }
 .priority-Aplus { background: #7144a5; }
 .priority-A { background: #4f55a4; }
 .priority-A- { background: #5d6297; }
