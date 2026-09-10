@@ -412,5 +412,32 @@
     "productRawName": "CX-13 龍王閃擊",
     "lotteryUrl": "https://lin.ee/UYv5QPl",
     "purchaseNote": "抽選／購買時間：2026/09/11 11:00～2026/09/12 21:00\n本券僅適用於 FUNBOX 樹林秀泰購買"
+  },
+  {
+    "id": "天母sogo-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "天母sogo",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/y4j0PVB",
+    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 天母 SOGO 7 樓專櫃（台北市士林區中山北路六段77號七樓）"
+  },
+  {
+    "id": "天母sogo-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "天母sogo",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/sW8NexE",
+    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 天母 SOGO 7 樓專櫃（台北市士林區中山北路六段77號七樓）"
+  },
+  {
+    "id": "天母sogo-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "天母sogo",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/uq6jtZa",
+    "purchaseNote": "抽選時間：2026/09/11 11:00 開放\n購買資格券有效期間：2026/09/11 11:00～22:00；2026/09/12 11:00～21:00\n購買地點：funbox 天母 SOGO 7 樓專櫃（台北市士林區中山北路六段77號七樓）"
   }
 ]
