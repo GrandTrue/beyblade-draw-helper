@@ -992,5 +992,117 @@
     "productRawName": "CX-00 新世紀福音戰士改造組",
     "lotteryUrl": "https://lin.ee/WBosPIK",
     "purchaseNote": "本券僅適用於台北大巨蛋店 funbox 購買"
+  },
+  {
+    "id": "三越南西-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "三越南西",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/uXOiPsu"
+  },
+  {
+    "id": "三越南西-BX-00-暴風天馬-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "三越南西",
+    "productId": "BX-00-暴風天馬",
+    "productRawName": "BX-00 暴風天馬3-70RA",
+    "lotteryUrl": "https://lin.ee/We77Mbp"
+  },
+  {
+    "id": "三越南西-BX-26-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "三越南西",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/7kgUqT52"
+  },
+  {
+    "id": "三越南西-BX-33-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "三越南西",
+    "productId": "BX-33",
+    "productRawName": "BX-33 皓戰猛虎",
+    "lotteryUrl": "https://lin.ee/qRFGlf9"
+  },
+  {
+    "id": "三越南西-BX-45-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "三越南西",
+    "productId": "BX-45",
+    "productRawName": "BX-45 武士魂斬",
+    "lotteryUrl": "https://lin.ee/P3riTxX6"
+  },
+  {
+    "id": "三越南西-BXG-01-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "三越南西",
+    "productId": "BXG-01",
+    "productRawName": "BXG-01 烈焰飛鳳S",
+    "lotteryUrl": "https://lin.ee/VyTFNj0"
+  },
+  {
+    "id": "三越南西-BXG-04-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "三越南西",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/pr1TmsN"
+  },
+  {
+    "id": "三越南西-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "三越南西",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/S9EmEj5"
+  },
+  {
+    "id": "淡水禮萊廣場-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "淡水禮萊廣場",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/r7qjeyJ"
+  },
+  {
+    "id": "淡水禮萊廣場-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "淡水禮萊廣場",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/RE80eJJ"
+  },
+  {
+    "id": "淡水禮萊廣場-UX-21-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "淡水禮萊廣場",
+    "productId": "UX-21",
+    "productRawName": "UX-21 惡魔冥界改造組",
+    "lotteryUrl": "https://lin.ee/WUvGVPy"
+  },
+  {
+    "id": "淡水禮萊廣場-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "淡水禮萊廣場",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/TwllYG8"
+  },
+  {
+    "id": "比漾廣場-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "比漾廣場",
+    "productId": "CX-00",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/9jLWHeT"
+  },
+  {
+    "id": "比漾廣場-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "比漾廣場",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/udna5wGR"
   }
 ]
