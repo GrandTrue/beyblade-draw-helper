@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useRef, useState } from 'react'
 import type { DrawStateMap, DrawStatus } from '../types'
 import { loadDrawStates } from '../utils/storage'
 
@@ -11,10 +11,16 @@ const loadProfiles = (): Profiles => {
 
 export function useDrawStatus(profile: 'line1' | 'line2') {
   const [profiles, setProfiles] = useState<Profiles>(loadProfiles)
-  useEffect(() => localStorage.setItem(PROFILES_KEY, JSON.stringify(profiles)), [profiles])
+  const profilesRef = useRef(profiles)
+  const updateProfiles = (update: (current: Profiles) => Profiles) => {
+    const next = update(profilesRef.current)
+    profilesRef.current = next
+    localStorage.setItem(PROFILES_KEY, JSON.stringify(next))
+    setProfiles(next)
+  }
   const states = profiles[profile]
-  const setStatus = (id: string, status: DrawStatus) => setProfiles(current => ({ ...current, [profile]: { ...current[profile], [id]: { status, updatedAt: new Date().toISOString() } } }))
-  const clear = () => setProfiles(current => ({ ...current, [profile]: {} }))
-  const importStates = (next: DrawStateMap) => setProfiles(current => ({ ...current, [profile]: next }))
+  const setStatus = (id: string, status: DrawStatus) => updateProfiles(current => ({ ...current, [profile]: { ...current[profile], [id]: { status, updatedAt: new Date().toISOString() } } }))
+  const clear = () => updateProfiles(current => ({ ...current, [profile]: {} }))
+  const importStates = (next: DrawStateMap) => updateProfiles(current => ({ ...current, [profile]: next }))
   return { states, setStatus, clear, importStates }
 }
