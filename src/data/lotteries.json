@@ -1104,5 +1104,69 @@
     "productId": "BX-00-蒼龍神劍",
     "productRawName": "BX-00 蒼龍神劍3-60F V2",
     "lotteryUrl": "https://lin.ee/udna5wGR"
+  },
+  {
+    "id": "美麗華-CX-00-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "美麗華",
+    "productId": "CX-00",
+    "productRawName": "CX00 福音戰士",
+    "lotteryUrl": "https://lin.ee/q28tidC"
+  },
+  {
+    "id": "美麗華-BX-00-蒼龍神劍-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "美麗華",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX00 神劍V2",
+    "lotteryUrl": "https://lin.ee/RsCd9NB"
+  },
+  {
+    "id": "美麗華-UX-20-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "美麗華",
+    "productId": "UX-20",
+    "productRawName": "UX20 榮耀武神",
+    "lotteryUrl": "https://lin.ee/xHH6KQu"
+  },
+  {
+    "id": "美麗華-BX-37-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "美麗華",
+    "productId": "BX-37",
+    "productRawName": "BX37 電動盤",
+    "lotteryUrl": "https://lin.ee/vjO48GI"
+  },
+  {
+    "id": "美麗華-CX-13-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "美麗華",
+    "productId": "CX-13",
+    "productRawName": "CX13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/RrvOl4Q"
+  },
+  {
+    "id": "美麗華-BX-26-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "美麗華",
+    "productId": "BX-26",
+    "productRawName": "BX26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/Vm2M7Bh"
+  },
+  {
+    "id": "美麗華-BXG-01-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "美麗華",
+    "productId": "BXG-01",
+    "productRawName": "BXG01 飛鳳",
+    "lotteryUrl": "https://lin.ee/TNmwplS"
+  },
+  {
+    "id": "美麗華-BXG-04-2026-09-round-2",
+    "roundId": "2026-09-round-2",
+    "storeId": "美麗華",
+    "productId": "BXG-04",
+    "productRawName": "BXG04 烈虎",
+    "lotteryUrl": "https://lin.ee/7bXJxiY"
   }
 ]
