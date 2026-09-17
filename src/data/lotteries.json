@@ -424,7 +424,7 @@
     "productId": "CX-12",
     "productRawName": "CX-12 鳳凰閃焰",
     "lotteryUrl": "https://lin.ee/Vgc1u0M",
-    "purchaseNote": "9/18 本輪抽選商品已公布"
+    "purchaseNote": "9/18 本輪抽選商品已公布；店名確認：板橋大遠百；Facebook 已更新"
   },
   {
     "id": "板橋大遠百-BX-00-蒼龍神劍-2026-09-18",
@@ -433,7 +433,7 @@
     "productId": "BX-00-蒼龍神劍",
     "productRawName": "BX-00 蒼龍神劍3-60F V2",
     "lotteryUrl": "https://lin.ee/yp47UCf",
-    "purchaseNote": "9/18 本輪抽選商品已公布"
+    "purchaseNote": "9/18 本輪抽選商品已公布；店名確認：板橋大遠百；Facebook 已更新"
   },
   {
     "id": "板橋大遠百-UX-03-2026-09-18",
@@ -442,7 +442,7 @@
     "productId": "UX-03",
     "productRawName": "UX-03 魔導神杖",
     "lotteryUrl": "https://lin.ee/U2hE9eB",
-    "purchaseNote": "9/18 本輪抽選商品已公布"
+    "purchaseNote": "9/18 本輪抽選商品已公布；店名確認：板橋大遠百；Facebook 已更新"
   },
   {
     "id": "板橋大遠百-CX-00-迪卡狂怒-2026-09-18",
@@ -451,7 +451,7 @@
     "productId": "CX-00-迪卡狂怒",
     "productRawName": "CX-00 迪卡狂怒 FT3-60T",
     "lotteryUrl": "https://lin.ee/Q2usF7Y",
-    "purchaseNote": "9/18 本輪抽選商品已公布"
+    "purchaseNote": "9/18 本輪抽選商品已公布；店名確認：板橋大遠百；Facebook 已更新"
   },
   {
     "id": "中和環球-CX-00-迪卡狂怒-2026-09-18",
@@ -587,5 +587,131 @@
     "productRawName": "CX-13 龍王閃擊",
     "lotteryUrl": "https://lin.ee/RKDrrPj",
     "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "遠百信義a13-CX-00-迪卡狂怒-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "遠百信義a13",
+    "productId": "CX-00-迪卡狂怒",
+    "productRawName": "CX-00 迪卡狂怒 FT3-60T",
+    "lotteryUrl": "https://lin.ee/5hnrhfF",
+    "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "遠百信義a13-UX-03-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "遠百信義a13",
+    "productId": "UX-03",
+    "productRawName": "UX-03 魔導神杖",
+    "lotteryUrl": "https://lin.ee/st7PKoI",
+    "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "遠百信義a13-BX-37-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "遠百信義a13",
+    "productId": "BX-37",
+    "productRawName": "BX-37 雙重極限衝擊戰鬥盤 豪華組",
+    "lotteryUrl": "https://lin.ee/NBflFpT",
+    "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "南港lalaport-CX-00-迪卡狂怒-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "南港lalaport",
+    "productId": "CX-00-迪卡狂怒",
+    "productRawName": "CX-00 迪卡狂怒 FT3-60T",
+    "lotteryUrl": "https://lin.ee/u3E1dlU",
+    "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "南港lalaport-UX-03-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "南港lalaport",
+    "productId": "UX-03",
+    "productRawName": "UX-03 魔導神杖",
+    "lotteryUrl": "https://lin.ee/WvMF6x3",
+    "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "南港lalaport-BX-37-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "南港lalaport",
+    "productId": "BX-37",
+    "productRawName": "BX-37 雙重極限衝擊戰鬥盤 豪華組",
+    "lotteryUrl": "https://lin.ee/ZfvYsWT",
+    "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "南港lalaport-BXG-04-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "南港lalaport",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙獵虎S",
+    "lotteryUrl": "https://lin.ee/W6j7aH5",
+    "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "南港lalaport-CX-00-新世紀福音戰士-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "南港lalaport",
+    "productId": "CX-00-新世紀福音戰士",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/yrNv6E8",
+    "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "南港lalaport-BX-00-蒼龍神劍-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "南港lalaport",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍3-60F V2",
+    "lotteryUrl": "https://lin.ee/oXsof2F",
+    "purchaseNote": "9/18 本輪抽選商品已公布"
+  },
+  {
+    "id": "天母三越-BXG-04-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "天母三越",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/vsXielf",
+    "purchaseNote": "9/18 本輪抽選商品已公布；本券僅適用於天母三越 funbox 購買"
+  },
+  {
+    "id": "天母三越-BX-00-蒼龍神劍-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "天母三越",
+    "productId": "BX-00-蒼龍神劍",
+    "productRawName": "BX-00 蒼龍神劍V2",
+    "lotteryUrl": "https://lin.ee/PzT3ecL",
+    "purchaseNote": "9/18 本輪抽選商品已公布；本券僅適用於天母三越 funbox 購買"
+  },
+  {
+    "id": "天母三越-CX-13-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "天母三越",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/PynNzeo",
+    "purchaseNote": "9/18 本輪抽選商品已公布；本券僅適用於天母三越 funbox 購買"
+  },
+  {
+    "id": "天母三越-UX-03-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "天母三越",
+    "productId": "UX-03",
+    "productRawName": "UX-03 魔導神杖",
+    "lotteryUrl": "https://lin.ee/vuWaB0z",
+    "purchaseNote": "9/18 本輪抽選商品已公布；本券僅適用於天母三越 funbox 購買"
+  },
+  {
+    "id": "天母三越-CX-00-迪卡狂怒-2026-09-18",
+    "roundId": "2026-09-18",
+    "storeId": "天母三越",
+    "productId": "CX-00-迪卡狂怒",
+    "productRawName": "CX-00 迪卡狂怒",
+    "lotteryUrl": "https://lin.ee/zPLblyG",
+    "purchaseNote": "9/18 本輪抽選商品已公布；本券僅適用於天母三越 funbox 購買"
   }
 ]
