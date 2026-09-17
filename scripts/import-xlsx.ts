@@ -23,11 +23,15 @@ const codeFrom = (value: string) => {
   return code === 'BX-00' && /烈[焰燄]飛鳳/.test(value) ? 'BXG-01' : code
 }
 const codesFrom = (value: string) => [...value.toUpperCase().matchAll(/\b(BXG|BX|UX|CX)\s*-?\s*(\d{2})\b/g)].map(match => `${match[1]}-${match[2]}`)
-// BX-00 is shared by distinct products; never share their priority or draw state.
+// BX-00 and CX-00 are shared by distinct products; never share their priority or draw state.
 const productIdFrom = (value: string) => {
   const code = codeFrom(value)
   if (code === 'BX-00') {
     const variant = ['蒼龍神劍', '暴風天馬'].find(name => value.includes(name))
+    return variant ? `${code}-${variant}` : `unknown-${slug(value)}`
+  }
+  if (code === 'CX-00') {
+    const variant = ['新世紀福音戰士', '迪卡狂怒'].find(name => value.includes(name))
     return variant ? `${code}-${variant}` : `unknown-${slug(value)}`
   }
   return code || `unknown-${slug(value)}`
@@ -92,8 +96,10 @@ for (const [priorityIndex, row] of priorityRows.entries()) {
   const codes = codesFrom(rawName)
   const priority = normalizePriority(row['優先級'])
   const note = trim(row['備註']) || undefined
-  if (rawName.includes('孩之寶系列')) priorityByKeyword.set('孩之寶系列', { priority, sortOrder: priorityIndex * 100, note })
-  for (const [codeIndex, itemCode] of codes.entries()) priorityById.set(itemCode === 'BX-00' ? productIdFrom(rawName) : itemCode, { priority, sortOrder: priorityIndex * 100 + codeIndex, note })
+  for (const keyword of ['發射器', '收納', '場地', '握把', '孩之寶系列']) {
+    if (rawName.includes(keyword)) priorityByKeyword.set(keyword, { priority, sortOrder: priorityIndex * 100, note })
+  }
+  for (const [codeIndex, itemCode] of codes.entries()) priorityById.set(['BX-00', 'CX-00'].includes(itemCode) ? productIdFrom(rawName) : itemCode, { priority, sortOrder: priorityIndex * 100 + codeIndex, note })
   if (codes.length > 1) continue
   const code = codes[0]
   const id = productIdFrom(rawName)
