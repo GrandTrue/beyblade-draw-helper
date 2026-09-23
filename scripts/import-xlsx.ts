@@ -31,7 +31,7 @@ const productIdFrom = (value: string) => {
     return variant ? `${code}-${variant}` : `unknown-${slug(value)}`
   }
   if (code === 'CX-00') {
-    const variant = ['新世紀福音戰士', '迪卡狂怒'].find(name => value.includes(name))
+    const variant = value.includes('超人力霸王迪卡') ? '迪卡狂怒' : ['新世紀福音戰士', '迪卡狂怒'].find(name => value.includes(name))
     return variant ? `${code}-${variant}` : `unknown-${slug(value)}`
   }
   return code || `unknown-${slug(value)}`

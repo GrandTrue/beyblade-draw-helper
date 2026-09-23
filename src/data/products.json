@@ -293,7 +293,8 @@
     "sortOrder": 3300,
     "note": "2026/09/18 新增",
     "aliases": [
-      "CX-00 迪卡狂怒"
+      "CX-00 迪卡狂怒",
+      "CX-00 超人力霸王迪卡"
     ]
   },
   {
@@ -480,14 +481,6 @@
     "priority": "低優先",
     "sortOrder": 2800,
     "note": "統一低優先",
-    "aliases": []
-  },
-  {
-    "id": "unknown-cx-00-超人力霸王迪卡",
-    "code": "CX-00",
-    "name": "CX-00 超人力霸王迪卡",
-    "priority": "未分類",
-    "sortOrder": 999999,
     "aliases": []
   },
   {
