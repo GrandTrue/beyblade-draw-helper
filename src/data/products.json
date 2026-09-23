@@ -300,8 +300,8 @@
     "id": "CX-19",
     "code": "CX-19",
     "name": "CX-19 鱷魚裂甲",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "S-",
+    "sortOrder": 50000,
     "aliases": [
       "CX-19 隨機強化組"
     ]
@@ -333,24 +333,24 @@
     "id": "CX-16",
     "code": "CX-16",
     "name": "CX-16 極限衝擊對戰組C",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "低優先",
+    "sortOrder": 50001,
     "aliases": []
   },
   {
     "id": "CX-01",
     "code": "CX-01",
     "name": "CX-01 蒼龍勇氣",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C-",
+    "sortOrder": 50002,
     "aliases": []
   },
   {
     "id": "UX-14",
     "code": "UX-14",
     "name": "UX-14 天蠍長矛0-70Z",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C+",
+    "sortOrder": 50003,
     "aliases": [
       "UX-14 天蠍長矛",
       "UX-14 天蠍長矛 0-70Z"
@@ -369,72 +369,72 @@
     "id": "BX-08",
     "code": "BX-08",
     "name": "BX-08 三合一對戰組",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C-",
+    "sortOrder": 50004,
     "aliases": []
   },
   {
     "id": "CX-02",
     "code": "CX-02",
     "name": "CX-02 魔導至尊",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C-",
+    "sortOrder": 50005,
     "aliases": []
   },
   {
     "id": "UX-13",
     "code": "UX-13",
     "name": "UX-13 魔像奇岩",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C",
+    "sortOrder": 50006,
     "aliases": []
   },
   {
     "id": "BX-16",
     "code": "BX-16",
     "name": "BX-16 王蛇鞭尾 隨機強化組",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C-",
+    "sortOrder": 50007,
     "aliases": []
   },
   {
     "id": "BX-13",
     "code": "BX-13",
     "name": "BX-13 騎士長槍",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C-",
+    "sortOrder": 50008,
     "aliases": []
   },
   {
     "id": "BXG-22",
     "code": "BXG-22",
     "name": "BXG-22 龍騎士S",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "低優先",
+    "sortOrder": 50009,
     "aliases": []
   },
   {
     "id": "BX-44",
     "code": "BX-44",
     "name": "BX-44 三角強襲",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C-",
+    "sortOrder": 50010,
     "aliases": []
   },
   {
     "id": "CX-06",
     "code": "CX-06",
     "name": "CX-06 極狐九尾 隨機強化組",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "B-",
+    "sortOrder": 50011,
     "aliases": []
   },
   {
     "id": "BX-38",
     "code": "BX-38",
     "name": "BX-38 赫燃天鳳",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C",
+    "sortOrder": 50012,
     "aliases": []
   },
   {

@@ -90,6 +90,21 @@ const products: Product[] = []
 const productById = new Map<string, Product>()
 const priorityById = new Map<string, { priority: ProductPriority; sortOrder: number; note?: string }>()
 const priorityByKeyword = new Map<string, { priority: ProductPriority; sortOrder: number; note?: string }>()
+const manualPriorityById = new Map<string, { priority: ProductPriority; sortOrder: number; note?: string }>([
+  ['CX-19', { priority: 'S-', sortOrder: 50000 }],
+  ['CX-16', { priority: '低優先', sortOrder: 50001 }],
+  ['CX-01', { priority: 'C-', sortOrder: 50002 }],
+  ['UX-14', { priority: 'C+', sortOrder: 50003 }],
+  ['BX-08', { priority: 'C-', sortOrder: 50004 }],
+  ['CX-02', { priority: 'C-', sortOrder: 50005 }],
+  ['UX-13', { priority: 'C', sortOrder: 50006 }],
+  ['BX-16', { priority: 'C-', sortOrder: 50007 }],
+  ['BX-13', { priority: 'C-', sortOrder: 50008 }],
+  ['BXG-22', { priority: '低優先', sortOrder: 50009 }],
+  ['BX-44', { priority: 'C-', sortOrder: 50010 }],
+  ['CX-06', { priority: 'B-', sortOrder: 50011 }],
+  ['BX-38', { priority: 'C', sortOrder: 50012 }],
+])
 for (const [priorityIndex, row] of priorityRows.entries()) {
   const rawName = trim(row['商品'] || row['商品／類別'])
   if (!rawName) continue
@@ -118,7 +133,7 @@ for (const row of lotteryRows) {
   const id = productIdFrom(rawName)
   let product = productById.get(id)
   if (!product) {
-    const configured = priorityById.get(id) || [...priorityByKeyword].find(([keyword]) => rawName.includes(keyword))?.[1]
+    const configured = priorityById.get(id) || manualPriorityById.get(id) || [...priorityByKeyword].find(([keyword]) => rawName.includes(keyword))?.[1]
     product = { id, code, name: rawName, priority: configured?.priority || '未分類', sortOrder: configured?.sortOrder ?? 999999, note: configured?.note, aliases: [] }
     products.push(product); productById.set(id, product)
     if (!configured) warnings.push(`未設定優先級商品：${rawName}`)
