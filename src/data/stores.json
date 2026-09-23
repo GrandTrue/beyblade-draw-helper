@@ -36,7 +36,7 @@
     "priority": "優先抽",
     "lineOfficialId": "@237annfd",
     "facebookUrl": "https://www.facebook.com/share/1K6XRBMujq/",
-    "announcementStatus": "published"
+    "announcementStatus": "pending"
   },
   {
     "id": "板橋遠東",
@@ -46,7 +46,7 @@
     "priority": "可以抽",
     "lineOfficialId": "@083zoknr",
     "facebookUrl": "https://www.facebook.com/share/1BmnHxAaZ7/?mibextid=wwXIfr",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "信義新天地a8館",
@@ -86,7 +86,7 @@
     "priority": "稀有商品再抽",
     "lineOfficialId": "@491uicsm",
     "facebookUrl": "https://www.facebook.com/share/19E9UZWhK9/?mibextid=wwXIfr",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "天母sogo",
@@ -136,7 +136,7 @@
     "priority": "稀有商品再抽",
     "lineOfficialId": "@924ngwfb",
     "facebookUrl": "http://www.facebook.com/share/14jPaVWXoLJ/?mibextid=wwXlfr",
-    "announcementStatus": "published"
+    "announcementStatus": "pending"
   },
   {
     "id": "宏匯廣場",
@@ -214,6 +214,6 @@
     "city": "非 Funbox",
     "type": "NON_FUNBOX",
     "priority": "非 FUNBOX",
-    "announcementStatus": "published"
+    "announcementStatus": "pending"
   }
 ]

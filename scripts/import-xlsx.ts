@@ -96,7 +96,7 @@ for (const [priorityIndex, row] of priorityRows.entries()) {
   const codes = codesFrom(rawName)
   const priority = normalizePriority(row['優先級'])
   const note = trim(row['備註']) || undefined
-  for (const keyword of ['發射器', '收納', '場地', '握把', '孩之寶系列']) {
+  for (const keyword of ['通行證', '新世紀福音戰士', '發射器', '收納', '場地', '握把', '孩之寶系列']) {
     if (rawName.includes(keyword)) priorityByKeyword.set(keyword, { priority, sortOrder: priorityIndex * 100, note })
   }
   for (const [codeIndex, itemCode] of codes.entries()) priorityById.set(['BX-00', 'CX-00'].includes(itemCode) ? productIdFrom(rawName) : itemCode, { priority, sortOrder: priorityIndex * 100 + codeIndex, note })
