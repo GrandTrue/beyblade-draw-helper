@@ -140,7 +140,11 @@ for (const row of lotteryRows) {
   }
   if (rawName !== product.name && !product.aliases?.includes(rawName)) product.aliases?.push(rawName)
   const purchaseNote = purchaseNoteByStoreName.get(storeName) || existingPurchaseNoteByStoreId.get(store.id)
-  lotteries.push({ id: `${store.id}-${product.id}-${roundId}`, roundId, storeId: store.id, productId: product.id, productRawName: rawName, lotteryUrl: url, ...(purchaseNote ? { purchaseNote } : {}) })
+  const baseId = `${store.id}-${product.id}-${roundId}`
+  const previous = lotteries.filter(lottery => lottery.storeId === store.id && lottery.productId === product.id)
+  if (previous.some(lottery => lottery.lotteryUrl === url)) throw new Error(`重複抽選連結：${storeName} / ${rawName}`)
+  const lotteryId = previous.length ? `${baseId}-${new URL(url).pathname.split('/').filter(Boolean).join('-')}` : baseId
+  lotteries.push({ id: lotteryId, roundId, storeId: store.id, productId: product.id, productRawName: rawName, lotteryUrl: url, ...(purchaseNote ? { purchaseNote } : {}) })
 }
 for (const [kind, entries] of Object.entries({ stores, products, lotteries })) {
   const ids = new Set<string>()

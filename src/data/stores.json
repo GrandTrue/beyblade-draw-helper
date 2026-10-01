@@ -26,7 +26,7 @@
     "priority": "優先抽",
     "lineOfficialId": "@xbm4599s",
     "facebookUrl": "https://www.facebook.com/ybg5152n#",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "天母三越",
@@ -36,7 +36,7 @@
     "priority": "優先抽",
     "lineOfficialId": "@237annfd",
     "facebookUrl": "https://www.facebook.com/share/1K6XRBMujq/",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "板橋遠東",
@@ -176,7 +176,7 @@
     "priority": "優先抽",
     "lineOfficialId": "@944creff",
     "facebookUrl": "https://www.facebook.com/share/1Db8rVD6Hk/?mibextid=wwXIfr",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "美麗華",
@@ -186,7 +186,7 @@
     "priority": "優先抽",
     "lineOfficialId": "@660hextn",
     "facebookUrl": "https://www.facebook.com/profile.php?id=61592730395195",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   },
   {
     "id": "遠百信義a13",
@@ -206,7 +206,7 @@
     "priority": "未分類",
     "lineOfficialId": "@248eexma",
     "facebookUrl": "https://www.facebook.com/profile.php?id=61593737335376&locale=zh_TW",
-    "announcementStatus": "published"
+    "announcementStatus": "pending"
   },
   {
     "id": "地下街-來玩聚",
@@ -214,6 +214,6 @@
     "city": "非 Funbox",
     "type": "NON_FUNBOX",
     "priority": "非 FUNBOX",
-    "announcementStatus": "pending"
+    "announcementStatus": "published"
   }
 ]
