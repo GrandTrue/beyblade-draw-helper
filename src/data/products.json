@@ -7,7 +7,6 @@
     "sortOrder": 0,
     "note": "核心主力備品",
     "aliases": [
-      "UX-20 榮耀武神LF",
       "UX-20 榮耀武神"
     ]
   },
@@ -19,8 +18,7 @@
     "sortOrder": 100,
     "note": "高優先",
     "aliases": [
-      "UX-15 鮫鯊狂鱗改造組",
-      "UX-15 鮫鯊狂鱗"
+      "UX-15 鮫鯊狂鱗改造組"
     ]
   },
   {
@@ -59,8 +57,8 @@
     "sortOrder": 500,
     "note": "主力備品，H 實用",
     "aliases": [
-      "UX-19 子彈獅鷲",
-      "UX-19 子彈獅鷲H"
+      "UX-19 子彈獅鷲H",
+      "UX-19 子彈獅鷲"
     ]
   },
   {
@@ -70,7 +68,9 @@
     "priority": "S-",
     "sortOrder": 600,
     "note": "S-",
-    "aliases": []
+    "aliases": [
+      "CX-00 新世紀福音戰士聯名款"
+    ]
   },
   {
     "id": "CX-11",
@@ -149,8 +149,7 @@
     "sortOrder": 1400,
     "note": "2026/09/11 新增",
     "aliases": [
-      "CX-17 隨機強化組 Vol.10（此券可購買數量2個）",
-      "CX-17 獨角極變"
+      "CX-17 隨機強化組 Vol.10（此券可購買數量1個）"
     ]
   },
   {
@@ -200,9 +199,7 @@
     "priority": "B",
     "sortOrder": 1900,
     "note": "9-60、LR 有備件價值",
-    "aliases": [
-      "UX-11 衝擊龍神 豪華組"
-    ]
+    "aliases": []
   },
   {
     "id": "BX-00-暴風天馬",
@@ -240,9 +237,7 @@
     "priority": "C+",
     "sortOrder": 2300,
     "note": "2026/09/11 新增",
-    "aliases": [
-      "CX-08 魔犬烈焰"
-    ]
+    "aliases": []
   },
   {
     "id": "UX-02",
@@ -310,7 +305,6 @@
     "note": "2026/09/23 定級",
     "aliases": [
       "CX-16 極限對戰組C",
-      "CX-16 極限衝擊豪華對戰組",
       "CX-16 極限衝擊對戰組"
     ]
   },
@@ -331,8 +325,8 @@
     "sortOrder": 3700,
     "note": "2026/09/23 定級",
     "aliases": [
-      "UX-14 天蠍長矛",
-      "UX-14 天蠍長矛0-70Z"
+      "UX-14 天蠍長矛0-70Z",
+      "UX-14 天蠍長矛"
     ]
   },
   {
@@ -433,8 +427,7 @@
     "sortOrder": 4800,
     "note": "2026/10/02 定級",
     "aliases": [
-      "CX-05 隨機強化組 Vol.6",
-      "CX-05 惡魔獵魂"
+      "CX-05 隨機強化組 Vol.6"
     ]
   },
   {
@@ -446,7 +439,8 @@
     "note": "2026/10/02 定級",
     "aliases": [
       "UX-16 時鐘幻象 隨機強化組",
-      "UX-16 時鐘幻象"
+      "UX-16 時鐘幻象隨機強化組",
+      "UX-16 時鐘幻象隨機強化組（此券可購買數量2個）"
     ]
   },
   {
@@ -457,21 +451,66 @@
     "sortOrder": 5000,
     "note": "2026/10/02 定級",
     "aliases": [
-      "UX-17 隕星龍騎士（左迴旋）",
       "UX-17 隕星龍騎士3-70J",
+      "UX-17 隕星龍騎士（左迴旋）",
       "UX-17 隕星龍騎士"
     ]
   },
   {
-    "id": "CX-19",
-    "code": "CX-19",
-    "name": "CX-19 鱷魚裂甲",
-    "priority": "S-",
-    "sortOrder": 3401,
-    "note": "2026/09/23 定級",
-    "aliases": [
-      "CX-19 鱷魚裂甲 隨機強化組"
-    ]
+    "id": "CX-10",
+    "code": "CX-10",
+    "name": "CX-10 銀狼狩獵",
+    "priority": "未分類",
+    "sortOrder": 999999,
+    "aliases": []
+  },
+  {
+    "id": "BX-20",
+    "code": "BX-20",
+    "name": "BX-20 蒼龍利刃改造組",
+    "priority": "未分類",
+    "sortOrder": 999999,
+    "aliases": []
+  },
+  {
+    "id": "BX-06",
+    "code": "BX-06",
+    "name": "BX-06 騎士重盾 (蒼藍)",
+    "priority": "未分類",
+    "sortOrder": 999999,
+    "aliases": []
+  },
+  {
+    "id": "BXG-21",
+    "code": "BXG-21",
+    "name": "BXG-21 暴風巨神",
+    "priority": "未分類",
+    "sortOrder": 999999,
+    "aliases": []
+  },
+  {
+    "id": "CX-09",
+    "code": "CX-09",
+    "name": "CX-09 焰神滅世",
+    "priority": "未分類",
+    "sortOrder": 999999,
+    "aliases": []
+  },
+  {
+    "id": "BX-49",
+    "code": "BX-49",
+    "name": "BX-49 蒼龍突擊",
+    "priority": "未分類",
+    "sortOrder": 999999,
+    "aliases": []
+  },
+  {
+    "id": "BXG-20",
+    "code": "BXG-20",
+    "name": "BXG-20 巨岩雄獅",
+    "priority": "未分類",
+    "sortOrder": 999999,
+    "aliases": []
   },
   {
     "id": "BXG-01",
@@ -483,15 +522,13 @@
     "aliases": []
   },
   {
-    "id": "BX-09",
-    "code": "BX-09",
-    "name": "BX-09 戰鬥陀螺X通行證",
-    "priority": "S",
-    "sortOrder": 300,
-    "note": "高優先",
-    "aliases": [
-      "BX-09 通行證"
-    ]
+    "id": "CX-19",
+    "code": "CX-19",
+    "name": "CX-19 鱷魚裂甲",
+    "priority": "S-",
+    "sortOrder": 3401,
+    "note": "2026/09/23 定級",
+    "aliases": []
   },
   {
     "id": "BXG-04",
@@ -500,24 +537,6 @@
     "priority": "低優先",
     "sortOrder": 3201,
     "note": "收藏／備品為主",
-    "aliases": []
-  },
-  {
-    "id": "BX-37",
-    "code": "BX-37",
-    "name": "BX-37 雙重極限衝擊戰鬥盤",
-    "priority": "低優先",
-    "sortOrder": 3002,
-    "note": "統一低優先",
-    "aliases": []
-  },
-  {
-    "id": "BX-10",
-    "code": "BX-10",
-    "name": "BX-10 極限衝擊戰鬥盤",
-    "priority": "低優先",
-    "sortOrder": 3000,
-    "note": "統一低優先",
     "aliases": []
   }
 ]

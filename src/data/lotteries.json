@@ -1,2895 +1,1452 @@
 [
   {
-    "id": "潤泰南港車站店-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "地下街-來玩聚-CX-11-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-11",
+    "productRawName": "CX-11 帝王威能",
+    "lotteryUrl": "https://lin.ee/SYciRNj"
+  },
+  {
+    "id": "地下街-來玩聚-CX-00-新世紀福音戰士-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-00-新世紀福音戰士",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/zsanpb7"
+  },
+  {
+    "id": "地下街-來玩聚-UX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-03",
+    "productRawName": "UX-03 魔導神杖",
+    "lotteryUrl": "https://lin.ee/Q9ORhFq"
+  },
+  {
+    "id": "地下街-來玩聚-UX-14-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-14",
+    "productRawName": "UX-14 天蠍長矛0-70Z",
+    "lotteryUrl": "https://lin.ee/6bljgMGP"
+  },
+  {
+    "id": "地下街-來玩聚-CX-16-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-16",
+    "productRawName": "CX-16 極限衝擊對戰組C",
+    "lotteryUrl": "https://lin.ee/nsuP5hR"
+  },
+  {
+    "id": "地下街-來玩聚-UX-17-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-17",
+    "productRawName": "UX-17 隕星龍騎士3-70J",
+    "lotteryUrl": "https://lin.ee/88OtBaa"
+  },
+  {
+    "id": "地下街-來玩聚-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-03",
+    "productRawName": "CX-03 英仙幽冥",
+    "lotteryUrl": "https://lin.ee/yw6K6rj"
+  },
+  {
+    "id": "地下街-來玩聚-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-02",
+    "productRawName": "CX-02 魔導至尊",
+    "lotteryUrl": "https://lin.ee/qh4pQh4"
+  },
+  {
+    "id": "地下街-來玩聚-CX-01-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-01",
+    "productRawName": "CX-01 蒼龍勇氣",
+    "lotteryUrl": "https://lin.ee/Y1ohYMy"
+  },
+  {
+    "id": "地下街-來玩聚-UX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-13",
+    "productRawName": "UX-13 魔像奇岩",
+    "lotteryUrl": "https://lin.ee/7X64Bom"
+  },
+  {
+    "id": "地下街-來玩聚-UX-01-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-01",
+    "productRawName": "UX-01 蒼龍爆刃",
+    "lotteryUrl": "https://lin.ee/zeX9rFj"
+  },
+  {
+    "id": "地下街-來玩聚-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-15",
+    "productRawName": "CX-15 邪神狂怒",
+    "lotteryUrl": "https://lin.ee/rYAras0"
+  },
+  {
+    "id": "地下街-來玩聚-CX-14-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-14",
+    "productRawName": "CX-14 騎士堡壘",
+    "lotteryUrl": "https://lin.ee/yLnjMJx"
+  },
+  {
+    "id": "地下街-來玩聚-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/5lijbEE"
+  },
+  {
+    "id": "地下街-來玩聚-CX-08-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "CX-08",
+    "productRawName": "CX-08 隨機強化組 Vol.7",
+    "lotteryUrl": "https://lin.ee/Xx0Q2m2"
+  },
+  {
+    "id": "地下街-來玩聚-UX-19-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-19",
+    "productRawName": "UX-19 子彈獅鷲H",
+    "lotteryUrl": "https://lin.ee/uqV4FrTT"
+  },
+  {
+    "id": "地下街-來玩聚-UX-16-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "地下街-來玩聚",
+    "productId": "UX-16",
+    "productRawName": "UX-16 時鐘幻象 隨機強化組",
+    "lotteryUrl": "https://lin.ee/Pz7VcRY"
+  },
+  {
+    "id": "遠百信義a13-UX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠百信義a13",
+    "productId": "UX-13",
+    "productRawName": "UX-13 魔像奇岩",
+    "lotteryUrl": "https://lin.ee/oE1iSeG",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠百信義a13-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠百信義a13",
+    "productId": "CX-02",
+    "productRawName": "CX-02 魔導至尊",
+    "lotteryUrl": "https://lin.ee/sXXU1ls",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠百信義a13-CX-05-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠百信義a13",
+    "productId": "CX-05",
+    "productRawName": "CX-05 隨機強化組 Vol.6",
+    "lotteryUrl": "https://lin.ee/UHzXf8U",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠百信義a13-CX-08-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠百信義a13",
+    "productId": "CX-08",
+    "productRawName": "CX-08 隨機強化組 Vol.7",
+    "lotteryUrl": "https://lin.ee/OhyzpSG",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠百信義a13-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠百信義a13",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/9MIaMHj",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠百信義a13-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠百信義a13",
+    "productId": "CX-15",
+    "productRawName": "CX-15 邪神狂怒",
+    "lotteryUrl": "https://lin.ee/oW0QNVU",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠百信義a13-CX-16-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠百信義a13",
+    "productId": "CX-16",
+    "productRawName": "CX-16 極限衝擊對戰組C",
+    "lotteryUrl": "https://lin.ee/9HYEHY0",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-CX-17-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "CX-17",
+    "productRawName": "CX-17 隨機強化組 Vol.10",
+    "lotteryUrl": "https://lin.ee/yFQHFqj",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-UX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "UX-03",
+    "productRawName": "UX-03 魔導神杖",
+    "lotteryUrl": "https://lin.ee/oJulAO6",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-UX-19-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "UX-19",
+    "productRawName": "UX-19 子彈獅鷲",
+    "lotteryUrl": "https://lin.ee/rxjmMb4",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/ZIhzBi0",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "CX-02",
+    "productRawName": "CX-02 魔導至尊",
+    "lotteryUrl": "https://lin.ee/sIuem9x",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-CX-14-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "CX-14",
+    "productRawName": "CX-14 騎士堡壘",
+    "lotteryUrl": "https://lin.ee/qHPJ7wO",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-CX-01-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "CX-01",
+    "productRawName": "CX-01 蒼龍勇氣",
+    "lotteryUrl": "https://lin.ee/5saSA6r",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "CX-15",
+    "productRawName": "CX-15 邪神狂怒",
+    "lotteryUrl": "https://lin.ee/SA9oRXnn",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "CX-03",
+    "productRawName": "CX-03 英仙幽冥",
+    "lotteryUrl": "https://lin.ee/zGiC84W",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-UX-16-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "UX-16",
+    "productRawName": "UX-16 時鐘幻象 隨機強化組",
+    "lotteryUrl": "https://lin.ee/nXrKCAI",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "三越站前-CX-08-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "三越站前",
+    "productId": "CX-08",
+    "productRawName": "CX-08 隨機強化組 Vol.7",
+    "lotteryUrl": "https://lin.ee/nsZ79zb",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠東大巨蛋-CX-10-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠東大巨蛋",
+    "productId": "CX-10",
+    "productRawName": "CX-10 銀狼狩獵",
+    "lotteryUrl": "https://lin.ee/P0m4dwxr",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠東大巨蛋-BX-20-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠東大巨蛋",
+    "productId": "BX-20",
+    "productRawName": "BX-20 蒼龍利刃改造組",
+    "lotteryUrl": "https://lin.ee/Nwum179",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠東大巨蛋-BX-06-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠東大巨蛋",
+    "productId": "BX-06",
+    "productRawName": "BX-06 騎士重盾 (蒼藍)",
+    "lotteryUrl": "https://lin.ee/vOrQYCI",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠東大巨蛋-BXG-21-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠東大巨蛋",
+    "productId": "BXG-21",
+    "productRawName": "BXG-21 暴風巨神",
+    "lotteryUrl": "https://lin.ee/9DLrPH9",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠東大巨蛋-BX-00-暴風天馬-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠東大巨蛋",
+    "productId": "BX-00-暴風天馬",
+    "productRawName": "BX-00 暴風天馬3-70RA",
+    "lotteryUrl": "https://lin.ee/N7NJGZy",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠東大巨蛋-CX-09-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠東大巨蛋",
+    "productId": "CX-09",
+    "productRawName": "CX-09 焰神滅世",
+    "lotteryUrl": "https://lin.ee/69scjuh",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠東大巨蛋-BX-49-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠東大巨蛋",
+    "productId": "BX-49",
+    "productRawName": "BX-49 蒼龍突擊",
+    "lotteryUrl": "https://lin.ee/8LGKQv0",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "遠東大巨蛋-BXG-20-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "遠東大巨蛋",
+    "productId": "BXG-20",
+    "productRawName": "BXG-20 巨岩雄獅",
+    "lotteryUrl": "https://lin.ee/QvMCNEU",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "潤泰南港車站店-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "CX-03",
     "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/XuvQPtao",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/p4DhyHX",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-CX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "潤泰南港車站店",
-    "productId": "CX-19",
-    "productRawName": "CX-19 鱷魚裂甲",
-    "lotteryUrl": "https://lin.ee/PvQSP4Z",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "潤泰南港車站店-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "潤泰南港車站店",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/OPkYwve",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "潤泰南港車站店-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "潤泰南港車站店",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/9uUlN6m2",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "潤泰南港車站店-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "CX-13",
     "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/NFpN4G4",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/vwKM43g",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-CX-16-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "CX-16",
     "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/yYWqrgR",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/QOq1Fye",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "潤泰南港車站店",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能改造組",
-    "lotteryUrl": "https://lin.ee/QaqrfPC",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "潤泰南港車站店-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-UX-16-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "UX-16",
     "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/Wu7KWWS",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/xhdtH03",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-CX-00-新世紀福音戰士-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "CX-00-新世紀福音戰士",
     "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/rdX8gu7",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/Of3Hu1R",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "潤泰南港車站店",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/vjM90kw",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "潤泰南港車站店-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "CX-15",
     "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/sMNeBW7",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/o8BA92o",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-UX-01-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "UX-01",
     "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/yF6X0kS",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/q0fdifO",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-UX-17-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "UX-17",
     "productRawName": "UX-17 隕星龍騎士（左迴旋）",
-    "lotteryUrl": "https://lin.ee/uZzH2S6",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/Q43LDso",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "CX-02",
     "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/WmkOaO1",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/wXy5bI8",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-UX-13-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "UX-13",
     "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/sNu8WCk",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/oFxZg7k",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "潤泰南港車站店",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/nHUAzJ0",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "潤泰南港車站店-BXG-01-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-BXG-01-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "BXG-01",
     "productRawName": "BXG-01 烈焰飛鳳S",
-    "lotteryUrl": "https://lin.ee/x2ykNes",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/NdJHy3z",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "潤泰南港車站店-UX-14-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "潤泰南港車站店",
     "productId": "UX-14",
     "productRawName": "UX-14 天蠍長矛",
-    "lotteryUrl": "https://lin.ee/z6Wbn1Q",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/Zd8hxBE",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "潤泰南港車站店-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "潤泰南港車站店",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/St82m6y",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "潤泰南港車站店-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "潤泰南港車站店",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲",
-    "lotteryUrl": "https://lin.ee/7RQgmux",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "信義新天地a8館-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
+    "id": "天母sogo-CX-00-新世紀福音戰士-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-00-新世紀福音戰士",
     "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/rq9WA14",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/NSZxYPf",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "信義新天地a8館-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
+    "id": "天母sogo-CX-01-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-01",
     "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/wl6n4ZB",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/PNElaT9",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "信義新天地a8館-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
+    "id": "天母sogo-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-02",
     "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/VAzPsVy",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/Y1orMbn",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "信義新天地a8館-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
+    "id": "天母sogo-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-03",
     "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/YQuuvbFH",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/xcvssQV",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "信義新天地a8館-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/ZPgX6Fn",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "信義新天地a8館-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
+    "id": "天母sogo-CX-08-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-08",
     "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/oIA4UCI",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/YXTKLCk",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "信義新天地a8館-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
+    "id": "天母sogo-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-13",
     "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/Uzy5qqB",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/xqpXSej",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "信義新天地a8館-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
+    "id": "天母sogo-CX-14-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-14",
     "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/6oKq3Hi",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/qYAOOPT",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "信義新天地a8館-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
+    "id": "天母sogo-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-15",
     "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/pYYm51a",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/6KRlj3m",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "信義新天地a8館-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/trPxoT5",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "信義新天地a8館-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
+    "id": "天母sogo-CX-17-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/ydGwzvN",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "productRawName": "CX-17 隨機強化組 Vol.10（此券可購買數量1個）",
+    "lotteryUrl": "https://lin.ee/vL3fOFD",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "信義新天地a8館-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/ozAu9Hp",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "信義新天地a8館-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/tqYq5ai",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "信義新天地a8館-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/vjuRENY",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "信義新天地a8館-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛0-70Z",
-    "lotteryUrl": "https://lin.ee/t5JoVOZ",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "信義新天地a8館-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/Zw7zOX8",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "信義新天地a8館-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士3-70J",
-    "lotteryUrl": "https://lin.ee/n51N5Su",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "信義新天地a8館-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "信義新天地a8館",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲H",
-    "lotteryUrl": "https://lin.ee/SKirLcd",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/rT5A3ho",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/zL9A0bU",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
+    "id": "天母sogo-CX-19-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
     "productId": "CX-19",
     "productRawName": "CX-19 鱷魚裂甲",
-    "lotteryUrl": "https://lin.ee/SpqGO7v",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/7whQVNT",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "台北忠孝遠東sogo-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/8P8N87X",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/siHEN7F",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/sSPVTS8",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛0-70Z",
-    "lotteryUrl": "https://lin.ee/TIvACn4",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/qcP6prb",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/pciMk1q",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/Nryv8zhu",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/sOyJHV4",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/YMVtTVb",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/oAvh403",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士3-70J",
-    "lotteryUrl": "https://lin.ee/7L38vyo",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/svqzhdlh",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/ZK0EkAP",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "台北忠孝遠東sogo-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "台北忠孝遠東sogo",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/Rq18wdb",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "地下街-來玩聚-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/UxlHm8I"
-  },
-  {
-    "id": "地下街-來玩聚-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/RFo0Uzh"
-  },
-  {
-    "id": "地下街-來玩聚-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/udhNKxQ"
-  },
-  {
-    "id": "地下街-來玩聚-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/xYbNzrt"
-  },
-  {
-    "id": "地下街-來玩聚-UX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "UX-15",
-    "productRawName": "UX-15 鮫鯊狂鱗改造組",
-    "lotteryUrl": "https://lin.ee/PrarqQV"
-  },
-  {
-    "id": "地下街-來玩聚-CX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-19",
-    "productRawName": "CX-19 鱷魚裂甲 隨機強化組",
-    "lotteryUrl": "https://lin.ee/75PGLJm"
-  },
-  {
-    "id": "地下街-來玩聚-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/YJIo6R7"
-  },
-  {
-    "id": "地下街-來玩聚-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲H",
-    "lotteryUrl": "https://lin.ee/oSqPZ5a"
-  },
-  {
-    "id": "地下街-來玩聚-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/z5EoRaK"
-  },
-  {
-    "id": "地下街-來玩聚-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/u8q8A63"
-  },
-  {
-    "id": "地下街-來玩聚-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/ovMCFg4"
-  },
-  {
-    "id": "地下街-來玩聚-UX-20-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "UX-20",
-    "productRawName": "UX-20 榮耀武神LF",
-    "lotteryUrl": "https://lin.ee/PSnFJUv"
-  },
-  {
-    "id": "地下街-來玩聚-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/nuSmRPs"
-  },
-  {
-    "id": "地下街-來玩聚-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/VU24YXu"
-  },
-  {
-    "id": "地下街-來玩聚-BX-09-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "BX-09",
-    "productRawName": "BX-09 戰鬥陀螺X通行證",
-    "lotteryUrl": "https://lin.ee/o9j4Wjs"
-  },
-  {
-    "id": "地下街-來玩聚-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/rGCyqe7"
-  },
-  {
-    "id": "地下街-來玩聚-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/NG3AzZh"
-  },
-  {
-    "id": "地下街-來玩聚-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/X25O8hC"
-  },
-  {
-    "id": "地下街-來玩聚-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/pIl9zDS"
-  },
-  {
-    "id": "地下街-來玩聚-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/PLV2INh"
-  },
-  {
-    "id": "地下街-來玩聚-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士3-70J",
-    "lotteryUrl": "https://lin.ee/qzWUbnx4"
-  },
-  {
-    "id": "地下街-來玩聚-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛0-70Z",
-    "lotteryUrl": "https://lin.ee/yTSDGHU"
-  },
-  {
-    "id": "地下街-來玩聚-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "地下街-來玩聚",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/9S44qNk"
-  },
-  {
-    "id": "三越站前-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/pHAGpIE",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/UZJPl88",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/8IF8Fw0",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/Pj6OSLb",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/Swd88ge",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲",
-    "lotteryUrl": "https://lin.ee/7fnafVD",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/n0jLrLo",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/ZjadsF8S",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/pblsN5C",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士3-70J",
-    "lotteryUrl": "https://lin.ee/tE0lLIl",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/Qq7NVfS",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/o8810aQ",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/UcYWBvC",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/u2ePqBw",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/W3oylJr",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/z4A9PMU",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "三越站前-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "三越站前",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/t18MK3O",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/8PEaWlW",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/r9D3eXf",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲",
-    "lotteryUrl": "https://lin.ee/wcxsmm5",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-19",
-    "productRawName": "CX-19 鱷魚裂甲",
-    "lotteryUrl": "https://lin.ee/r2lNix9",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/zEyF7vgN",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限對戰組C",
-    "lotteryUrl": "https://lin.ee/XzCiLt9",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-BXG-04-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "BXG-04",
-    "productRawName": "BXG-04 銀牙烈虎S",
-    "lotteryUrl": "https://lin.ee/ybQ5t8d",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/q6EGTZQ",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/oijvsMO",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/ydVP9Uf",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/Vl52eOV",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/osE7m3u1",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士",
-    "lotteryUrl": "https://lin.ee/RQpJZ9u",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/qJleYng",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/6WEkekN",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/uMF8bXt",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/uo9w8SU",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/oSvT2m3",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/TX8INWp",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/71u1IHy",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母三越-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母三越",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛0-70Z",
-    "lotteryUrl": "https://lin.ee/7IE50Xyo",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "天母sogo-CX-00-迪卡狂怒-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-00-迪卡狂怒",
-    "productRawName": "CX-00 迪卡狂怒 FT3-60T",
-    "lotteryUrl": "https://lin.ee/6J0gZ5J",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/VIJcAFI",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/VkFfw5D",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/8fdD6Zq",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/ufvmuGc",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/qufyKwo",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/81EnYAx",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能改造組",
-    "lotteryUrl": "https://lin.ee/utIbCw7",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/5phE2oV",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/wVlKJOW",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/ZL98gep",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/sBdPMJK",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/S34eutu",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-CX-17-2026-10-02-QS7rQzV",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10（此券可購買數量2個）",
-    "lotteryUrl": "https://lin.ee/QS7rQzV",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "天母sogo-UX-01-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "天母sogo",
     "productId": "UX-01",
     "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/zbjAj7p",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
+    "lotteryUrl": "https://lin.ee/vTGFsov",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "天母sogo-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "天母sogo-UX-03-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "天母sogo",
     "productId": "UX-03",
     "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/yJR7TRI",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
+    "lotteryUrl": "https://lin.ee/vMV5cgj",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "天母sogo-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "天母sogo-UX-13-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "天母sogo",
     "productId": "UX-13",
     "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/rlZcB2W",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
+    "lotteryUrl": "https://lin.ee/5cD9JpE",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "天母sogo-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛",
-    "lotteryUrl": "https://lin.ee/YZfWhFx",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-UX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "天母sogo",
-    "productId": "UX-15",
-    "productRawName": "UX-15 鮫鯊狂鱗改造組",
-    "lotteryUrl": "https://lin.ee/SVed7Pm",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
-  },
-  {
-    "id": "天母sogo-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "天母sogo-UX-16-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "天母sogo",
     "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/rjsV6az",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
+    "productRawName": "UX-16 時鐘幻象隨機強化組",
+    "lotteryUrl": "https://lin.ee/Wc13vwX",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "天母sogo-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "天母sogo-UX-16-2026-10-07-xWxZf48",
+    "roundId": "2026-10-07",
+    "storeId": "天母sogo",
+    "productId": "UX-16",
+    "productRawName": "UX-16 時鐘幻象隨機強化組（此券可購買數量2個）",
+    "lotteryUrl": "https://lin.ee/xWxZf48",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
+  },
+  {
+    "id": "天母sogo-UX-17-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "天母sogo",
     "productId": "UX-17",
     "productRawName": "UX-17 隕星龍騎士",
-    "lotteryUrl": "https://lin.ee/6QTN6Yx",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
+    "lotteryUrl": "https://lin.ee/safxb1Q",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "天母sogo-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "天母sogo-UX-19-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "天母sogo",
     "productId": "UX-19",
     "productRawName": "UX-19 子彈獅鷲",
-    "lotteryUrl": "https://lin.ee/QUaIkqA",
-    "purchaseNote": "10/2 本輪抽選商品已公布；CX-17 有兩張不同購買券，其中一張可購買2個"
+    "lotteryUrl": "https://lin.ee/X54aPph",
+    "purchaseNote": "10/7 新一週抽選商品已公布；UX-16 有兩張不同券，其中一張可購買2個"
   },
   {
-    "id": "高島屋百貨-CX-00-迪卡狂怒-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "高島屋百貨-CX-00-迪卡狂怒-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "高島屋百貨",
     "productId": "CX-00-迪卡狂怒",
     "productRawName": "CX-00 迪卡狂怒 FT3-60T",
-    "lotteryUrl": "https://lin.ee/trid9qZ",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/RGfh49z",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "高島屋百貨-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "高島屋百貨-CX-00-新世紀福音戰士-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "高島屋百貨",
     "productId": "CX-00-新世紀福音戰士",
     "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/qWf0LKD",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/5yc9FNq",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "高島屋百貨-BX-00-蒼龍神劍-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "高島屋百貨-BX-00-蒼龍神劍-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "高島屋百貨",
     "productId": "BX-00-蒼龍神劍",
     "productRawName": "BX-00 蒼龍神劍3-60F V2",
-    "lotteryUrl": "https://lin.ee/p4bVNjA",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/ZcpXMwD",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "高島屋百貨-UX-21-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "高島屋百貨-UX-21-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "高島屋百貨",
     "productId": "UX-21",
     "productRawName": "UX-21 惡魔冥界改造組",
-    "lotteryUrl": "https://lin.ee/5HyQ4D3",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/ZCzF45M",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "高島屋百貨-UX-15-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "高島屋百貨-UX-15-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "高島屋百貨",
     "productId": "UX-15",
     "productRawName": "UX-15 鮫鯊狂鱗改造組",
-    "lotteryUrl": "https://lin.ee/UKUaUYo",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/Z2M5usd",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "高島屋百貨-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "高島屋百貨-CX-11-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "高島屋百貨",
     "productId": "CX-11",
     "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/YiB5It3",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/VKJdOmE",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "高島屋百貨-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "高島屋百貨-UX-03-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "高島屋百貨",
     "productId": "UX-03",
     "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/5O2tp06",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/sK4uc9ci",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "高島屋百貨-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "高島屋百貨-CX-16-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "高島屋百貨",
     "productId": "CX-16",
     "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/ZyrIGHU",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/6rBqgPB",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "高島屋百貨-BX-09-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "高島屋百貨",
-    "productId": "BX-09",
-    "productRawName": "BX-09 戰鬥陀螺X通行證",
-    "lotteryUrl": "https://lin.ee/VwbjjA7",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "高島屋百貨-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "高島屋百貨",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/5NEAw6G6",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "高島屋百貨-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "高島屋百貨",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/XLD9DBm",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "高島屋百貨-BXG-04-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "高島屋百貨",
-    "productId": "BXG-04",
-    "productRawName": "BXG-04 銀牙烈虎S",
-    "lotteryUrl": "https://lin.ee/9oMCi24",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "高島屋百貨-BXG-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "高島屋百貨",
-    "productId": "BXG-01",
-    "productRawName": "BXG-01 烈焰飛鳳S",
-    "lotteryUrl": "https://lin.ee/zJsbFdl",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "高島屋百貨-BX-00-暴風天馬-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "高島屋百貨",
-    "productId": "BX-00-暴風天馬",
-    "productRawName": "BX-00 暴風天馬3-70RA",
-    "lotteryUrl": "https://lin.ee/ODZbHsOr",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "高島屋百貨-UX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "高島屋百貨",
-    "productId": "UX-11",
-    "productRawName": "UX-11 衝擊龍神 豪華組",
-    "lotteryUrl": "https://lin.ee/wpdCKkG",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "高島屋百貨-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "高島屋百貨-UX-19-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "高島屋百貨",
     "productId": "UX-19",
     "productRawName": "UX-19 子彈獅鷲H",
-    "lotteryUrl": "https://lin.ee/X27BzlA",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/TVSrIvz",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "遠百信義a13-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/xOoOKc5",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "id": "高島屋百貨-UX-02-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "高島屋百貨",
+    "productId": "UX-02",
+    "productRawName": "UX-02 惡魔戰錘",
+    "lotteryUrl": "https://lin.ee/9mbfZNm",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "遠百信義a13-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/yLCQf8J",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "id": "高島屋百貨-BX-26-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "高島屋百貨",
+    "productId": "BX-26",
+    "productRawName": "BX-26 獨角刺心",
+    "lotteryUrl": "https://lin.ee/TnT1Q8y",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "遠百信義a13-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/rqF0X0J9",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "id": "高島屋百貨-BX-33-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "高島屋百貨",
+    "productId": "BX-33",
+    "productRawName": "BX-33 皓戰猛虎",
+    "lotteryUrl": "https://lin.ee/xbTMiYX",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "遠百信義a13-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/Vt50le6",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/QcSNg23",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
+    "id": "高島屋百貨-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "高島屋百貨",
     "productId": "CX-13",
     "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/P05Mmf3",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/R02V80U",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "遠百信義a13-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/9gE5bKt",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "id": "信義新天地a8館-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "信義新天地a8館",
+    "productId": "CX-02",
+    "productRawName": "CX-02 魔導至尊",
+    "lotteryUrl": "https://lin.ee/sfpdfuX",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "遠百信義a13-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
+    "id": "信義新天地a8館-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "信義新天地a8館",
+    "productId": "CX-03",
+    "productRawName": "CX-03 英仙幽冥",
+    "lotteryUrl": "https://lin.ee/9UMj5ZR",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "信義新天地a8館-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "信義新天地a8館",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/Vs1Pq8n",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "信義新天地a8館-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "信義新天地a8館",
     "productId": "CX-15",
     "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/rZPGcEY",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/nZ2kqWr",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "遠百信義a13-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/qYUtOtW",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "id": "天母三越-CX-00-新世紀福音戰士-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
+    "productId": "CX-00-新世紀福音戰士",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/wwl7I4e",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "遠百信義a13-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/nMn4CWx",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/6bEpdX9",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/q7Kh1FZ5",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/Wy2q8yG",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛",
-    "lotteryUrl": "https://lin.ee/YxXRpSZ",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-UX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "UX-15",
-    "productRawName": "UX-15 鮫鯊狂鱗改造組",
-    "lotteryUrl": "https://lin.ee/sgCOhX2",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/V7HYOlQ",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士",
-    "lotteryUrl": "https://lin.ee/XPY8FrN",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲H",
-    "lotteryUrl": "https://lin.ee/PB6hLtH",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "遠百信義a13-UX-20-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "遠百信義a13",
-    "productId": "UX-20",
-    "productRawName": "UX-20 榮耀武神LF",
-    "lotteryUrl": "https://lin.ee/R5mIGa7",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-BX-09-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "BX-09",
-    "productRawName": "BX-09 戰鬥陀螺X通行證",
-    "lotteryUrl": "https://lin.ee/qD2t8hR",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/vc5kkX5",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/WW9vF8h",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-UX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "UX-15",
-    "productRawName": "UX-15 鮫鯊狂鱗",
-    "lotteryUrl": "https://lin.ee/UIyy2DH",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象",
-    "lotteryUrl": "https://lin.ee/9iCSc6H",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士",
-    "lotteryUrl": "https://lin.ee/yQzvQYr",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
+    "id": "天母三越-UX-19-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
     "productId": "UX-19",
     "productRawName": "UX-19 子彈獅鷲",
-    "lotteryUrl": "https://lin.ee/7sJa0lR",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/PX7RP3l",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "美麗華-UX-20-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "UX-20",
-    "productRawName": "UX-20 榮耀武神",
-    "lotteryUrl": "https://lin.ee/u1uVdLq",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "id": "天母三越-CX-16-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
+    "productId": "CX-16",
+    "productRawName": "CX-16 極限對戰組C",
+    "lotteryUrl": "https://lin.ee/VzEJs3C",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "美麗華-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/SLSCFcE",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "id": "天母三越-BXG-04-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
+    "productId": "BXG-04",
+    "productRawName": "BXG-04 銀牙烈虎S",
+    "lotteryUrl": "https://lin.ee/PmQfKEG",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "美麗華-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/5kMgzlC",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "CX-05",
-    "productRawName": "CX-05 惡魔獵魂",
-    "lotteryUrl": "https://lin.ee/ZLACuEoS",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "CX-08",
-    "productRawName": "CX-08 魔犬烈焰",
-    "lotteryUrl": "https://lin.ee/PJJsEk5",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
+    "id": "天母三越-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
     "productId": "CX-13",
     "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/TsxyhiO",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/SnAzEbE",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "美麗華-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/p06zQvo",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
+    "id": "天母三越-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
     "productId": "CX-15",
     "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/P4cDMFE",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/vvHtV5g",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "美麗華-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊豪華對戰組",
-    "lotteryUrl": "https://lin.ee/OWABDsF",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "CX-17",
-    "productRawName": "CX-17 獨角極變",
-    "lotteryUrl": "https://lin.ee/znP28or",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-CX-00-迪卡狂怒-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "CX-00-迪卡狂怒",
-    "productRawName": "CX-00 迪卡狂怒",
-    "lotteryUrl": "https://lin.ee/7ELoYW5",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "美麗華-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "美麗華",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/wy0eMZU",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "中和環球-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/Xg9VQ6p",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
-  },
-  {
-    "id": "中和環球-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/pS2z29A",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
-  },
-  {
-    "id": "中和環球-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
+    "id": "天母三越-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
     "productId": "CX-03",
     "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/87pqbZT",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
+    "lotteryUrl": "https://lin.ee/NlAXaHG",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "中和環球-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/SuTUPoI",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
-  },
-  {
-    "id": "中和環球-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
+    "id": "天母三越-CX-08-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
     "productId": "CX-08",
     "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/VlBYDRr",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
+    "lotteryUrl": "https://lin.ee/7ztBG3Z",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "中和環球-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/8g9YRqh",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
+    "id": "天母三越-UX-16-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
+    "productId": "UX-16",
+    "productRawName": "UX-16 時鐘幻象 隨機強化組",
+    "lotteryUrl": "https://lin.ee/PCN6QRjF",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "中和環球-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/YNWv577",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
+    "id": "天母三越-CX-01-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
+    "productId": "CX-01",
+    "productRawName": "CX-01 蒼龍勇氣",
+    "lotteryUrl": "https://lin.ee/tx7s6eX",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "中和環球-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/xjJqxhe",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
+    "id": "天母三越-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
+    "productId": "CX-02",
+    "productRawName": "CX-02 魔導至尊",
+    "lotteryUrl": "https://lin.ee/51bHxeP",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "中和環球-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/Sf1xZKSC",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
+    "id": "天母三越-UX-14-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "天母三越",
+    "productId": "UX-14",
+    "productRawName": "UX-14 天蠍長矛0-70Z",
+    "lotteryUrl": "https://lin.ee/9vXi7ND",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "中和環球-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
+    "id": "台北忠孝遠東sogo-UX-17-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "UX-17",
+    "productRawName": "UX-17 隕星龍騎士3-70J",
+    "lotteryUrl": "https://lin.ee/RAnaJVU",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "台北忠孝遠東sogo-UX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
     "productId": "UX-13",
     "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/w9Hhljk",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
+    "lotteryUrl": "https://lin.ee/wFnUMJ5",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "中和環球-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
+    "id": "台北忠孝遠東sogo-CX-00-新世紀福音戰士-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "CX-00-新世紀福音戰士",
+    "productRawName": "CX-00 新世紀福音戰士改造組",
+    "lotteryUrl": "https://lin.ee/nsjDe1W",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "台北忠孝遠東sogo-UX-14-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "UX-14",
+    "productRawName": "UX-14 天蠍長矛0-70Z",
+    "lotteryUrl": "https://lin.ee/59NvSZt",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "台北忠孝遠東sogo-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "CX-03",
+    "productRawName": "CX-03 英仙幽冥",
+    "lotteryUrl": "https://lin.ee/55kl4iJD",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "台北忠孝遠東sogo-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "CX-15",
+    "productRawName": "CX-15 邪神狂怒",
+    "lotteryUrl": "https://lin.ee/pYZj1t5",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "台北忠孝遠東sogo-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "CX-02",
+    "productRawName": "CX-02 魔導至尊",
+    "lotteryUrl": "https://lin.ee/qYOw81c",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "台北忠孝遠東sogo-UX-16-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
     "productId": "UX-16",
     "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/tcoa3iX",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
+    "lotteryUrl": "https://lin.ee/56qBoLb",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "中和環球-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "中和環球",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士",
-    "lotteryUrl": "https://lin.ee/Q29zbZW",
-    "purchaseNote": "10/2 本輪抽選商品已公布；使用者貼文重複兩次，已去重"
+    "id": "台北忠孝遠東sogo-CX-08-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "CX-08",
+    "productRawName": "CX-08 隨機強化組 Vol.7",
+    "lotteryUrl": "https://lin.ee/6t5vsWN",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "板橋大遠百-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "台北忠孝遠東sogo-CX-14-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "CX-14",
+    "productRawName": "CX-14 騎士堡壘",
+    "lotteryUrl": "https://lin.ee/RZwr8O0",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "台北忠孝遠東sogo-CX-16-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "CX-16",
+    "productRawName": "CX-16 極限衝擊對戰組C",
+    "lotteryUrl": "https://lin.ee/ZjoxcyM",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "台北忠孝遠東sogo-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "台北忠孝遠東sogo",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/96rBtTr",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "板橋大遠百-CX-05-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "板橋大遠百",
+    "productId": "CX-05",
+    "productRawName": "CX-05 隨機強化組 Vol.6",
+    "lotteryUrl": "https://lin.ee/VukavmY",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "板橋大遠百-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "板橋大遠百",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/s7nsRaT",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "板橋大遠百-UX-01-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "板橋大遠百",
+    "productId": "UX-01",
+    "productRawName": "UX-01 蒼龍爆刃",
+    "lotteryUrl": "https://lin.ee/9XBbodB",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "板橋大遠百-CX-08-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "板橋大遠百",
     "productId": "CX-08",
     "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/Qe6kDiW",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/RX60tVD",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "板橋大遠百-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/RJjFeyi",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "板橋大遠百-UX-17-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "板橋大遠百",
     "productId": "UX-17",
     "productRawName": "UX-17 隕星龍騎士3-70J",
-    "lotteryUrl": "https://lin.ee/ZGdXTpI",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
+    "lotteryUrl": "https://lin.ee/P2isAld",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "板橋大遠百-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/NlV7s4sS",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/RxTu0D9h",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/UBjCNAZ",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-BX-37-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "BX-37",
-    "productRawName": "BX-37 雙重極限衝擊戰鬥盤",
-    "lotteryUrl": "https://lin.ee/rBKZzJG",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-BX-09-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "BX-09",
-    "productRawName": "BX-09 戰鬥陀螺X通行證",
-    "lotteryUrl": "https://lin.ee/97Ygnj2",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲H",
-    "lotteryUrl": "https://lin.ee/xvMccmh",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛0-70Z",
-    "lotteryUrl": "https://lin.ee/7MBT6qe",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/rCks2L4",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/Tj8Iny6u",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/qlFAzgl",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋大遠百-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋大遠百",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/60vDkP5",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/xERHH3GK",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/8bR8Dsa",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/o2SafcD",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士3-70J",
-    "lotteryUrl": "https://lin.ee/8CZWcif",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/Vux0hiCb",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/8FT07gL",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/6eGwThO",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/S3odZ9d",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/ZKusmWH",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/vzlo3zw",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/TL8S3g1",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/7KH8Obe",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/ZpDr8wK",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-UX-20-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "UX-20",
-    "productRawName": "UX-20 榮耀武神LF",
-    "lotteryUrl": "https://lin.ee/sG1GUlJ",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-19",
-    "productRawName": "CX-19 鱷魚裂甲 隨機強化組",
-    "lotteryUrl": "https://lin.ee/r8ar45f",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲H",
-    "lotteryUrl": "https://lin.ee/VK6LOiA",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛0-70Z",
-    "lotteryUrl": "https://lin.ee/OjOXfcZ",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/wp2LTBi",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/ODvECQx",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/Xah3III",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-BX-00-蒼龍神劍-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "BX-00-蒼龍神劍",
-    "productRawName": "BX-00 蒼龍神劍3-60F V2",
-    "lotteryUrl": "https://lin.ee/8mK29XG",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-00-迪卡狂怒-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-00-迪卡狂怒",
-    "productRawName": "CX-00 迪卡狂怒 FT3-60T",
-    "lotteryUrl": "https://lin.ee/zsTv97m",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "汐科遠雄-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "汐科遠雄",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/Sb5VxsR",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "板橋遠東-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/vgP2Xau",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/SLGzp6P",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/RFBqMwv",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/wvrVaas",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/9978Egp",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/6HPS7xV",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/zDczrmS",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/8VZrLM0",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/sP7gv4y",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/QUXg5le",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/XSzsYHf",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/V9Kyc7M",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/Wt9rhXX",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/yi71TNR",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛0-70Z",
-    "lotteryUrl": "https://lin.ee/ponxoMi",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/UV338W0",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士3-70J",
-    "lotteryUrl": "https://lin.ee/umU2dFOd",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "板橋遠東-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "板橋遠東",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲H",
-    "lotteryUrl": "https://lin.ee/Xd4VE6Q",
-    "purchaseNote": "10/2 本輪抽選商品已公布；板橋遠東＝板橋遠百中山店"
-  },
-  {
-    "id": "淡水禮萊廣場-UX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "UX-15",
-    "productRawName": "UX-15 鮫鯊狂鱗改造組",
-    "lotteryUrl": "https://lin.ee/ZmThtu8",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "UX-16",
-    "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/xitZ9s6",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士3-70J",
-    "lotteryUrl": "https://lin.ee/8MZjuz2",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/yRbKwHf",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-15",
-    "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/9b6FyTj",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組C",
-    "lotteryUrl": "https://lin.ee/QglhFT4",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/y0vC3LE",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲H",
-    "lotteryUrl": "https://lin.ee/ZjgS8xb",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-UX-20-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "UX-20",
-    "productRawName": "UX-20 榮耀武神LF",
-    "lotteryUrl": "https://lin.ee/tYAyZIC",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-BX-00-蒼龍神劍-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "BX-00-蒼龍神劍",
-    "productRawName": "BX-00 蒼龍神劍3-60F V2",
-    "lotteryUrl": "https://lin.ee/vsqa3Mm",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/syWNto6",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/RB6UntD",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/PLRN6q54",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "UX-03",
-    "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/WvzokGYi",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-02",
-    "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/oQ9bdvN",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/zShJtKv",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/TE08UuT",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-01",
-    "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/uDKeXQL",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "UX-14",
-    "productRawName": "UX-14 天蠍長矛0-70Z",
-    "lotteryUrl": "https://lin.ee/pRyJyQS",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/QJynbBe",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "淡水禮萊廣場-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "淡水禮萊廣場",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/YswCTJd",
-    "purchaseNote": "10/2 本輪抽選商品已公布"
-  },
-  {
-    "id": "樹林秀泰-BX-10-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "樹林秀泰",
-    "productId": "BX-10",
-    "productRawName": "BX-10 極限衝擊戰鬥盤",
-    "lotteryUrl": "https://lin.ee/PNiQSLe",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
-  },
-  {
-    "id": "樹林秀泰-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-00-新世紀福音戰士-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-00-新世紀福音戰士",
     "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/tgrHall",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/X0XRNCs",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-01-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-01",
     "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/wLe76Kj",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/nn9EqMf",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-02",
     "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/rUB8bSP",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/yE3YnY8",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-03",
     "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/8Qdjvmc",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/Os7IV1L",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-05-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-05",
     "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/72wmkct",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/WGw7dLQ",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-08-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-08",
     "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/y65uFAK",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/PUDgu4H",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "樹林秀泰",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/p9nk1rr",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
-  },
-  {
-    "id": "樹林秀泰-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-13",
     "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/SHPV3xf",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/YMWNO4M",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-14-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-14",
     "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/vT2noTN",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/Pk7LZpq",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-15",
     "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/UQhJ1fA",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/zhVlSzD",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-16-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-16",
     "productRawName": "CX-16 極限衝擊對戰組",
-    "lotteryUrl": "https://lin.ee/vgQQ3qL",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/VKEiKc8",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "樹林秀泰",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/vrmaTSG9",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
-  },
-  {
-    "id": "樹林秀泰-CX-19-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-CX-19-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "CX-19",
     "productRawName": "CX-19 鱷魚裂甲",
-    "lotteryUrl": "https://lin.ee/PfJ7d2W",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/xnPvW0Q",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-UX-01-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "UX-01",
     "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/s5XWs2I",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/NEsU899",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-UX-03-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "UX-03",
     "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/VVFn6FZ",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/PlpDb94",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-UX-13-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "UX-13",
     "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/v4U38t3",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/XERO49F",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-UX-14-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "UX-14",
     "productRawName": "UX-14 天蠍長矛0-70Z",
-    "lotteryUrl": "https://lin.ee/W2PyY7s",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/SeEoPDH",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-UX-16-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "UX-16",
     "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/QWcemJs",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/NASBQT0",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-UX-17-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "UX-17",
     "productRawName": "UX-17 隕星龍騎士3-70J",
-    "lotteryUrl": "https://lin.ee/r5huLYj",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/7hmvx3g",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-UX-19-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "UX-19",
     "productRawName": "UX-19 子彈獅鷲",
-    "lotteryUrl": "https://lin.ee/sN5Qfgs",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/XxKUmGU",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "樹林秀泰-UX-20-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "樹林秀泰-UX-20-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "樹林秀泰",
     "productId": "UX-20",
     "productRawName": "UX-20 榮耀武神",
-    "lotteryUrl": "https://lin.ee/OvUXIJB",
-    "purchaseNote": "10/2 本輪抽選商品已公布；先前誤歸屬的一組22筆已更正至新店裕隆城"
+    "lotteryUrl": "https://lin.ee/ymKurCK",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-UX-20-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "新店裕隆城",
-    "productId": "UX-20",
-    "productRawName": "UX-20 榮耀武神",
-    "lotteryUrl": "https://lin.ee/s177Tev",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "id": "中和環球-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "中和環球",
+    "productId": "CX-15",
+    "productRawName": "CX-15 邪神狂怒",
+    "lotteryUrl": "https://lin.ee/67Kf4AY",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-CX-00-迪卡狂怒-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "新店裕隆城",
+    "id": "中和環球-UX-17-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "中和環球",
+    "productId": "UX-17",
+    "productRawName": "UX-17 隕星龍騎士",
+    "lotteryUrl": "https://lin.ee/NxC8NHi",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "中和環球-CX-00-迪卡狂怒-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "中和環球",
     "productId": "CX-00-迪卡狂怒",
-    "productRawName": "CX-00 超人力霸王迪卡聯名款",
-    "lotteryUrl": "https://lin.ee/zjtf56P",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "productRawName": "CX-00 迪卡狂怒",
+    "lotteryUrl": "https://lin.ee/nZ1Rfba",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-BX-09-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "中和環球-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "中和環球",
+    "productId": "CX-03",
+    "productRawName": "CX-03 英仙幽冥",
+    "lotteryUrl": "https://lin.ee/Td8aYN0",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "中和環球-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "中和環球",
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/Wylosa8",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "中和環球-CX-01-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "中和環球",
+    "productId": "CX-01",
+    "productRawName": "CX-01 蒼龍勇氣",
+    "lotteryUrl": "https://lin.ee/yEfasgY",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "中和環球-UX-03-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "中和環球",
+    "productId": "UX-03",
+    "productRawName": "UX-03 魔導神杖",
+    "lotteryUrl": "https://lin.ee/zeWlxw2",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "中和環球-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "中和環球",
+    "productId": "CX-02",
+    "productRawName": "CX-02 魔導至尊",
+    "lotteryUrl": "https://lin.ee/Znk0hJI",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "新店裕隆城-CX-00-新世紀福音戰士-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
-    "productId": "BX-09",
-    "productRawName": "BX-09 通行證",
-    "lotteryUrl": "https://lin.ee/zmfSmni",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "productId": "CX-00-新世紀福音戰士",
+    "productRawName": "CX-00 新世紀福音戰士聯名款",
+    "lotteryUrl": "https://lin.ee/slFwglr",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-UX-01-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-UX-19-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
-    "productId": "UX-01",
-    "productRawName": "UX-01 蒼龍爆刃",
-    "lotteryUrl": "https://lin.ee/U78GmoV",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "productId": "UX-19",
+    "productRawName": "UX-19 子彈獅鷲",
+    "lotteryUrl": "https://lin.ee/rafcxQi",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-CX-01-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-CX-01-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
     "productId": "CX-01",
     "productRawName": "CX-01 蒼龍勇氣",
-    "lotteryUrl": "https://lin.ee/PM4Nqlq",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "lotteryUrl": "https://lin.ee/sW1wC8j",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-CX-14-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "新店裕隆城",
-    "productId": "CX-14",
-    "productRawName": "CX-14 騎士堡壘",
-    "lotteryUrl": "https://lin.ee/q8PMZmh",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
-  },
-  {
-    "id": "新店裕隆城-CX-03-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "新店裕隆城",
-    "productId": "CX-03",
-    "productRawName": "CX-03 英仙幽冥",
-    "lotteryUrl": "https://lin.ee/pqGchBTK",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
-  },
-  {
-    "id": "新店裕隆城-CX-00-新世紀福音戰士-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "新店裕隆城",
-    "productId": "CX-00-新世紀福音戰士",
-    "productRawName": "CX-00 新世紀福音戰士改造組",
-    "lotteryUrl": "https://lin.ee/5HSxcgb",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
-  },
-  {
-    "id": "新店裕隆城-UX-17-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "新店裕隆城",
-    "productId": "UX-17",
-    "productRawName": "UX-17 隕星龍騎士",
-    "lotteryUrl": "https://lin.ee/VefTkzx",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
-  },
-  {
-    "id": "新店裕隆城-CX-02-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-CX-02-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
     "productId": "CX-02",
     "productRawName": "CX-02 魔導至尊",
-    "lotteryUrl": "https://lin.ee/Ujbn7L3",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "lotteryUrl": "https://lin.ee/TKm7T43",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-UX-14-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-UX-01-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "新店裕隆城",
+    "productId": "UX-01",
+    "productRawName": "UX-01 蒼龍爆刃",
+    "lotteryUrl": "https://lin.ee/ncrRm4y",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "新店裕隆城-CX-14-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "新店裕隆城",
+    "productId": "CX-14",
+    "productRawName": "CX-14 騎士堡壘",
+    "lotteryUrl": "https://lin.ee/zG1pmiv",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "新店裕隆城-UX-14-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
     "productId": "UX-14",
     "productRawName": "UX-14 天蠍長矛",
-    "lotteryUrl": "https://lin.ee/ZvSOGwM",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "lotteryUrl": "https://lin.ee/Xvk6QOo",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-CX-13-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-CX-00-迪卡狂怒-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
-    "productId": "CX-13",
-    "productRawName": "CX-13 龍王閃擊",
-    "lotteryUrl": "https://lin.ee/YDZLbwg",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "productId": "CX-00-迪卡狂怒",
+    "productRawName": "CX-00 超人力霸王迪卡聯名款",
+    "lotteryUrl": "https://lin.ee/7yFPvvL",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-UX-13-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "新店裕隆城",
-    "productId": "UX-13",
-    "productRawName": "UX-13 魔像奇岩",
-    "lotteryUrl": "https://lin.ee/QzwFeApo",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
-  },
-  {
-    "id": "新店裕隆城-CX-11-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "新店裕隆城",
-    "productId": "CX-11",
-    "productRawName": "CX-11 帝王威能",
-    "lotteryUrl": "https://lin.ee/8wAjE0S",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
-  },
-  {
-    "id": "新店裕隆城-UX-03-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-UX-03-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
     "productId": "UX-03",
     "productRawName": "UX-03 魔導神杖",
-    "lotteryUrl": "https://lin.ee/vSt9dCs",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "lotteryUrl": "https://lin.ee/nomu09wu",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-CX-15-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-CX-15-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
     "productId": "CX-15",
     "productRawName": "CX-15 邪神狂怒",
-    "lotteryUrl": "https://lin.ee/7rETd14",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "lotteryUrl": "https://lin.ee/Yc5bBXC",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-UX-19-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-UX-17-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
-    "productId": "UX-19",
-    "productRawName": "UX-19 子彈獅鷲",
-    "lotteryUrl": "https://lin.ee/qJZFaM9",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "productId": "UX-17",
+    "productRawName": "UX-17 隕星龍騎士",
+    "lotteryUrl": "https://lin.ee/5ORXW59",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-CX-16-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-UX-13-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
-    "productId": "CX-16",
-    "productRawName": "CX-16 極限衝擊對戰組",
-    "lotteryUrl": "https://lin.ee/PSmk8mN",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "productId": "UX-13",
+    "productRawName": "UX-13 魔像奇岩",
+    "lotteryUrl": "https://lin.ee/8sF3etc4",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-CX-05-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-CX-13-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
-    "productId": "CX-05",
-    "productRawName": "CX-05 隨機強化組 Vol.6",
-    "lotteryUrl": "https://lin.ee/x9IvoVjE",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "productId": "CX-13",
+    "productRawName": "CX-13 龍王閃擊",
+    "lotteryUrl": "https://lin.ee/WvSmM03",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-CX-17-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-CX-03-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
-    "productId": "CX-17",
-    "productRawName": "CX-17 隨機強化組 Vol.10",
-    "lotteryUrl": "https://lin.ee/UnOJO5m1",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "productId": "CX-03",
+    "productRawName": "CX-03 英仙幽冥",
+    "lotteryUrl": "https://lin.ee/8AFQwIp",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   },
   {
-    "id": "新店裕隆城-CX-08-2026-10-02",
-    "roundId": "2026-10-02",
-    "storeId": "新店裕隆城",
-    "productId": "CX-08",
-    "productRawName": "CX-08 隨機強化組 Vol.7",
-    "lotteryUrl": "https://lin.ee/u3zfmtC",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
-  },
-  {
-    "id": "新店裕隆城-UX-16-2026-10-02",
-    "roundId": "2026-10-02",
+    "id": "新店裕隆城-UX-16-2026-10-07",
+    "roundId": "2026-10-07",
     "storeId": "新店裕隆城",
     "productId": "UX-16",
     "productRawName": "UX-16 時鐘幻象 隨機強化組",
-    "lotteryUrl": "https://lin.ee/QFMgkB0",
-    "purchaseNote": "10/2 本輪抽選商品已公布；此22筆由先前誤記的樹林秀泰第二組更正"
+    "lotteryUrl": "https://lin.ee/oTuNZ5lj",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "新店裕隆城-CX-05-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "新店裕隆城",
+    "productId": "CX-05",
+    "productRawName": "CX-05 隨機強化組 Vol.6",
+    "lotteryUrl": "https://lin.ee/NjDH0Dn",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "新店裕隆城-CX-08-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "新店裕隆城",
+    "productId": "CX-08",
+    "productRawName": "CX-08 隨機強化組 Vol.7",
+    "lotteryUrl": "https://lin.ee/PJwRcbP",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
+  },
+  {
+    "id": "新店裕隆城-CX-17-2026-10-07",
+    "roundId": "2026-10-07",
+    "storeId": "新店裕隆城",
+    "productId": "CX-17",
+    "productRawName": "CX-17 隨機強化組 Vol.10",
+    "lotteryUrl": "https://lin.ee/RUxh938t",
+    "purchaseNote": "10/7 新一週抽選商品已公布"
   }
 ]
