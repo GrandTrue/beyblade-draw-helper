@@ -7,7 +7,8 @@
     "sortOrder": 0,
     "note": "核心主力備品",
     "aliases": [
-      "UX-20 榮耀武神"
+      "UX-20 榮耀武神",
+      "UX-20 榮耀武神LF"
     ]
   },
   {
@@ -427,7 +428,8 @@
     "sortOrder": 4800,
     "note": "2026/10/02 定級",
     "aliases": [
-      "CX-05 隨機強化組 Vol.6"
+      "CX-05 隨機強化組 Vol.6",
+      "CX-05 惡魔獵魂抽包"
     ]
   },
   {
@@ -460,56 +462,67 @@
     "id": "CX-10",
     "code": "CX-10",
     "name": "CX-10 銀狼狩獵",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "B-",
+    "sortOrder": 5100,
+    "note": "2026/10/07 定級",
     "aliases": []
   },
   {
     "id": "BX-20",
     "code": "BX-20",
-    "name": "BX-20 蒼龍利刃改造組",
-    "priority": "未分類",
-    "sortOrder": 999999,
-    "aliases": []
+    "name": "BX-20 蒼龍利刃",
+    "priority": "C+",
+    "sortOrder": 5200,
+    "note": "2026/10/07 定級",
+    "aliases": [
+      "BX-20 蒼龍利刃改造組"
+    ]
   },
   {
     "id": "BX-06",
     "code": "BX-06",
-    "name": "BX-06 騎士重盾 (蒼藍)",
-    "priority": "未分類",
-    "sortOrder": 999999,
-    "aliases": []
+    "name": "BX-06 騎士重盾",
+    "priority": "C-",
+    "sortOrder": 5300,
+    "note": "2026/10/07 定級",
+    "aliases": [
+      "BX-06 騎士重盾 (蒼藍)"
+    ]
   },
   {
     "id": "BXG-21",
     "code": "BXG-21",
     "name": "BXG-21 暴風巨神",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "C+",
+    "sortOrder": 5400,
+    "note": "2026/10/07 定級",
     "aliases": []
   },
   {
     "id": "CX-09",
     "code": "CX-09",
     "name": "CX-09 焰神滅世",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "B",
+    "sortOrder": 5500,
+    "note": "2026/10/07 定級",
     "aliases": []
   },
   {
     "id": "BX-49",
     "code": "BX-49",
     "name": "BX-49 蒼龍突擊",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "A",
+    "sortOrder": 5600,
+    "note": "2026/10/07 定級",
     "aliases": []
   },
   {
     "id": "BXG-20",
     "code": "BXG-20",
     "name": "BXG-20 巨岩雄獅",
-    "priority": "未分類",
-    "sortOrder": 999999,
+    "priority": "低優先",
+    "sortOrder": 5700,
+    "note": "2026/10/07 定級",
     "aliases": []
   },
   {
